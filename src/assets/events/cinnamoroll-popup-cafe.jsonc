@@ -5,21 +5,7 @@
     "shortName": "Cinnamoroll",
     "imageUrl": "https://img2.storyblok.com/fit-in/0x540/filters:format(webp)/f/108104/1920x1080/9ca0efb0d2/cosa_delivery.jpg",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "UxrJUiw6Ue",
-        "date": { "day": 27, "month": 4, "year": 2024 },
-        "endDate": { "day": 17, "month": 5, "year": 2024 },
-        "calculatorData": {
-          "dailyCurrencyAmount": 5
-        },
-        "spirits": [],
-        "shops": ["6YoHc1liAI", "hfXFjKVeYU"],
-        "_calendar": {
-          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=adc35282be5f41ec881eba6fd7b04161"
-        }
-      }
-    ],
+    "instances": ["UxrJUiw6Ue"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_%C3%97_Cinnamoroll_Pop-Up_Cafe"
     }

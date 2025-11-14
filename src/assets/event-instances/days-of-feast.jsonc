@@ -1,0 +1,123 @@
+[
+      {
+        "guid": "-9T61aYKrW",
+        "date": { "day": 22, "month": 12, "year": 2019 },
+        "endDate": { "day": 2, "month": 1, "year": 2020 },
+        "shops": ["eWS8HsX6SC"]
+      },
+      {
+        "guid": "3kgcZhndZH",
+        "date": { "day": 21, "month": 12, "year": 2020 },
+        "endDate": { "day": 3, "month": 1, "year": 2021 },
+        "shops": ["48VKbivxaf", "akRGCtzW3O"],
+        "spirits": [
+          { "guid": "jqWTR2dvEc", "spirit": "j1UqKci8Hb", "tree": "zNffCKbbb2" }
+        ]
+      },
+      {
+        "guid": "J4c68B1pj7",
+        "date": { "day": 20, "month": 12, "year": 2021 },
+        "endDate": { "day": 9, "month": 1, "year": 2022 },
+        "shops": ["xegEfESIKJ", "oGKtAz6EKJ"],
+        "spirits": [
+          {
+            "guid": "DxybajHFDM",
+            "spirit": "5rr1zr2_j5",
+            "tree": "VjpAJQcwN0"
+          },
+          { "guid": "p7u0Zl6gak", "spirit": "j1UqKci8Hb", "tree": "GOwoxyHK4k" }
+        ]
+      },
+      {
+        "guid": "-nF-0Ar_uz",
+        "date": { "day": 19, "month": 12, "year": 2022 },
+        "endDate": { "day": 8, "month": 1, "year": 2023 },
+        "shops": ["sqzCydXmsy", "2C_rKjKCNo", "zoFI7O9DM0"],
+        "spirits": [
+          {
+            "guid": "_Kw0vriXyP",
+            "spirit": "KhFZE8z0-I",
+            "tree": "wZKU-sX365"
+          },
+          {
+            "guid": "d2BGP3fI-Y",
+            "spirit": "5rr1zr2_j5",
+            "tree": "WiF93W3zoc"
+          },
+          { "guid": "eXRAJOweQm", "spirit": "j1UqKci8Hb", "tree": "6SsyXPH5Ow" }
+        ]
+      },
+      {
+        "guid": "crmlLYIhMM",
+        "date": { "day": 18, "month": 12, "year": 2023 },
+        "endDate": { "day": 7, "month": 1, "year": 2024 },
+        "shops": ["lNLRe3Rj6g", "9b6uLsot0i", "MXxF9y1GLy", "dndaVdJd5K"],
+        "spirits": [
+          {
+            "guid": "QxEguod_7-",
+            "spirit": "gDAPHT2NBG",
+            "tree": "jJU_PYq-f6"
+          },
+          {
+            "guid": "fApfYKwKAR",
+            "spirit": "tKeCcn57So",
+            "tree": "TMkvtnTJpH"
+          },
+          {
+            "guid": "6OaVQ81uXo",
+            "spirit": "KhFZE8z0-I",
+            "name": "Bearhug Hermit (Aviary)",
+            "tree": "zjAxD7je6L"
+          },
+          {
+            "guid": "bSCey0rAnl",
+            "spirit": "TL-SY6cuF4",
+            "tree": "ICyq_AXa3D"
+          },
+          { "guid": "bvZrHb4eTn", "spirit": "j1UqKci8Hb", "tree": "yvElaQPmYD" }
+        ],
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Days-of-Feast-2408261c87dd80d7bed3f8ef95bf46f2?pvs=25"
+        }
+      },
+      {
+        "guid": "WSukhN_pd2",
+        "date": "2024-12-23",
+        "endDate": "2025-01-12",
+        "spirits": [
+          {
+            "guid": "gPuttZ9X4Y",
+            "spirit": "gDAPHT2NBG",
+            "tree": "qMoUmkx_mj"
+          },
+          {
+            "guid": "r2t53nowZK",
+            "spirit": "j1UqKci8Hb",
+            "tree": "9ZM5bafAP6",
+            "name": "Days of Feast Staff (Office)"
+          }
+        ],
+        "shops": [
+          "kI_EvR5rIm",
+          "5AdJq1m7jY",
+          "FgBx7wuSJD",
+          "1EwbarHMzH",
+          "Frfzz94SIt"
+        ],
+        "calculatorData": {
+          "dailyCurrencyAmount": 5,
+          "timedCurrency": [
+            {
+              "guid": "FLEbbxIDG6",
+              "date": "2024-12-23",
+              "endDate": "2025-01-12",
+              "amount": 15,
+              "description": "Snowflakes around the Wonderland Cafe"
+            }
+          ]
+        },
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1458261c87dd805a83d4c453cd61c190"
+        }
+      }
+]

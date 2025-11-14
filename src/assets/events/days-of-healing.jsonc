@@ -4,14 +4,7 @@
     "name": "Days of Healing",
     "shortName": "Healing",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "Btpq48TBPD",
-        "date": { "day": 18, "month": 5, "year": 2020 },
-        "endDate": { "day": 22, "month": 6, "year": 2020 },
-        "shops": ["mw6o6Ezv3e"]
-      }
-    ],
+    "instances": ["Btpq48TBPD"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Healing"
     }

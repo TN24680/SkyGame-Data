@@ -5,19 +5,7 @@
     "shortName": "Firework Festival",
     "imageUrl": "https://img2.storyblok.com/fit-in/0x540/filters:format(webp)/f/108104/1920x1080/3e94d18cf6/aviaryfireworkfestival23-header.png",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "w_k3jZV4Jg",
-        "date": { "day": 27, "month": 11, "year": 2023 },
-        "endDate": { "day": 11, "month": 12, "year": 2023 },
-        "spirits": [
-          { "guid": "-R-Ener3oo", "spirit": "NO6tqAn4m3", "tree": "Pfnfzz3kGn" }
-        ],
-        "_calendar": {
-          "href": "https://skydreamers.notion.site/Aviary-s-Firework-Festival-2408261c87dd8075a53cf9a72a8fb5f6?pvs=25"
-        }
-      }
-    ],
+    "instances": ["w_k3jZV4Jg"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival"
     }

@@ -1,0 +1,14 @@
+[
+  {
+    "guid": "FOV5DDicTL",
+    "date": { "day": 8, "month": 9, "year": 2020 },
+    "endDate": { "day": 20, "month": 9, "year": 2020 },
+    "shops": ["mbEzwlWA7W"]
+  },
+  {
+    "guid": "ZPF9Lep4IR",
+    "date": { "day": 20, "month": 9, "year": 2021 },
+    "endDate": { "day": 3, "month": 10, "year": 2021 },
+    "shops": ["hmIkJrBgwH"]
+  }
+]

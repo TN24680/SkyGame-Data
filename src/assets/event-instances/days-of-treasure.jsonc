@@ -1,0 +1,26 @@
+[
+  {
+    "guid": "LHByI2HCpt",
+    "date": "2025-03-03",
+    "endDate": "2025-03-16",
+    "spirits": [
+      { "guid": "UpYjlrT9f2", "spirit": "8WMnysBWNd", "tree": "JU8XT42DBX" }
+    ],
+    "shops": ["8avc2MnBQV"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 6,
+      "timedCurrency": [
+        {
+          "guid": "BkG8TttzBL",
+          "date": "2025-03-03",
+          "endDate": "2025-03-16",
+          "amount": 15,
+          "description": "Coins around various Realms"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1a58261c87dd802eb7dbe7d892a50260&pm=c"
+    }
+  }
+]

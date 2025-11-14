@@ -5,44 +5,7 @@
     "shortName": "Giving",
     "recurring": true,
     "imageUrl": "https://img2.storyblok.com/fit-in/0x540/filters:format(webp)/f/108104/1152x648/a6dfd9d33c/constellation_blogheader.png",
-    "instances": [
-      {
-        "guid": "og6aDjf82v",
-        "date": { "day": 26, "month": 11, "year": 2019 },
-        "endDate": { "day": 3, "month": 12, "year": 2019 }
-      },
-      {
-        "guid": "O1rBha4CPe",
-        "date": { "day": 23, "month": 11, "year": 2020 },
-        "endDate": { "day": 30, "month": 11, "year": 2020 }
-      },
-      {
-        "guid": "ZFIKCp1_ZW",
-        "date": { "day": 23, "month": 11, "year": 2021 },
-        "endDate": { "day": 29, "month": 11, "year": 2021 }
-      },
-      {
-        "guid": "7X6qW51tj5",
-        "date": { "day": 22, "month": 11, "year": 2022 },
-        "endDate": { "day": 28, "month": 11, "year": 2022 }
-      },
-      {
-        "guid": "6bevujwY8W",
-        "date": { "day": 20, "month": 11, "year": 2023 },
-        "endDate": { "day": 26, "month": 11, "year": 2023 },
-        "_calendar": {
-          "href": "https://skydreamers.notion.site/Days-of-Giving-2408261c87dd8076a514fbd82eff7ecb?pvs=25"
-        }
-      },
-      {
-        "guid": "t99qtRiuSh",
-        "date": { "day": 9, "month": 12, "year": 2024 },
-        "endDate": { "day": 22, "month": 12, "year": 2024 },
-        "_calendar": {
-          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1458261c87dd801ea0c8ce6c4e2472f2"
-        }
-      }
-    ],
+    "instances": ["og6aDjf82v", "O1rBha4CPe", "ZFIKCp1_ZW", "7X6qW51tj5", "6bevujwY8W", "t99qtRiuSh"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Giving"
     }

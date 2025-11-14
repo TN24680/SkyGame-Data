@@ -1,0 +1,46 @@
+[
+      {
+        "guid": "7eNLae0wS1",
+        "date": { "day": 23, "month": 5, "year": 2022 },
+        "endDate": { "day": 5, "month": 6, "year": 2022 },
+        "spirits": [
+          { "guid": "2Xcu_VsRwC", "spirit": "fEcI6neh6f", "tree": "15T8Gelv5Z" }
+        ]
+      },
+      {
+        "guid": "3k4_OrNBWj",
+        "date": { "day": 3, "month": 7, "year": 2023 },
+        "endDate": { "day": 16, "month": 7, "year": 2023 },
+        "shops": ["Vu7frzDGdC"],
+        "spirits": [
+          { "guid": "Flt5-UZMV_", "spirit": "fEcI6neh6f", "tree": "l1qSIM0q3H" }
+        ],
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Days-of-Music-2408261c87dd804bb7beece7cc411f30?pvs=25"
+        }
+      },
+      {
+        "guid": "BfJL68LKO8",
+        "date": "2024-11-25",
+        "endDate": "2024-12-11",
+        "spirits": [
+          { "guid": "IDMCkDUvXq", "spirit": "fEcI6neh6f", "tree": "jOEcQRyMJ-" }
+        ],
+        "shops": ["7VpHmkvmRL", "5AVN0e5JLo"],
+        "calculatorData": {
+          "dailyCurrencyAmount": 4,
+          "timedCurrency": [
+            {
+              "guid": "hCFiX5McQe",
+              "date": "2024-11-25",
+              "endDate": "2024-12-08",
+              "amount": 15,
+              "description": "Musical symbols around Aviary Village"
+            }
+          ]
+        },
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1438261c87dd80798bcdc9457554493c"
+        }
+      }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "guid": "BCh_DEXHt3",
+    "date": "2024-07-29",
+    "endDate": "2024-08-18",
+    "spirits": [
+      { "guid": "nxmweKYV12", "spirit": "dC8B9yzwFr", "tree": "FnovR0E6SH" }
+    ],
+    "shops": ["6_PNbhldnO"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 2,
+      "timedCurrency": [
+        {
+          "guid": "prahOawBXo",
+          "date": "2024-07-29",
+          "endDate": "2024-08-07",
+          "amount": 25
+        },
+        {
+          "guid": "OLY9sO71rl",
+          "date": "2024-08-08",
+          "endDate": "2024-08-17",
+          "amount": 25
+        },
+        {
+          "guid": "vUL-YAwTUP",
+          "date": "2024-08-18",
+          "endDate": "2024-08-18",
+          "amount": 3
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=3b3e45786a8043db84ae25297b7e446d"
+    }
+  }
+]

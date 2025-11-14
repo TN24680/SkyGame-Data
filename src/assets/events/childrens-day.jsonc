@@ -4,13 +4,7 @@
     "name": "Children's Day",
     "shortName": "Children's Day",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "PShOLpIdTP",
-        "date": { "day": 3, "month": 5, "year": 2021 },
-        "endDate": { "day": 9, "month": 5, "year": 2021 }
-      }
-    ],
+    "instances": ["PShOLpIdTP"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Special_Events"
     }

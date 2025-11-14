@@ -1,0 +1,48 @@
+[
+  {
+    "guid": "Fzgs71vx4q",
+    "date": "2024-09-16",
+    "endDate": "2024-09-29",
+    "spirits": [
+      { "guid": "SXFhpDBJAd", "spirit": "tXkUX6GU6W", "tree": "i_k3DZGBKo" }
+    ],
+    "shops": ["EFRo-sMbYE"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=9d3d869c42c748cca47139642c52d4c6"
+    }
+  },
+  {
+    "guid": "a1A9-xCNTW",
+    "date": "2025-09-29",
+    "endDate": "2025-10-12",
+    "spirits": [
+      { "guid": "HqyvmbuhoY", "spirit": "tXkUX6GU6W", "tree": "CX1CIWT9Vw" }
+    ],
+    "shops": ["YBHZlLBbgl", "Q9PXGV2pXd", "88_wbWmsEK"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "7AhwOUig9z",
+          "date": "2025-09-29",
+          "endDate": "2025-10-12",
+          "amount": 12,
+          "description": "Tickets around the Hidden Glade"
+        },
+        {
+          "guid": "nMXJW3sj-u",
+          "date": "2025-09-29",
+          "endDate": "2025-10-12",
+          "amount": 3,
+          "description": "Tickets in the Moonlight Void"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=25d8261c87dd809ab40cf2cee31a0781&pm=c"
+    }
+  }
+]

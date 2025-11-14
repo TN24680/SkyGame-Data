@@ -4,43 +4,7 @@
     "name": "Tournament of Triumph",
     "shortName": "Tournament",
     "imageUrl": "https://img2.storyblok.com/fit-in/0x540/filters:format(webp)/f/108104/1920x1080/3940c6fa1e/sky_totr_blog-header.jpg",
-    "instances": [
-      {
-        "guid": "BCh_DEXHt3",
-        "date": "2024-07-29",
-        "endDate": "2024-08-18",
-        "spirits": [
-          { "guid": "nxmweKYV12", "spirit": "dC8B9yzwFr", "tree": "FnovR0E6SH" }
-        ],
-        "shops": ["6_PNbhldnO"],
-        "calculatorData": {
-          "dailyCurrencyAmount": 2,
-          "timedCurrency": [
-            {
-              "guid": "prahOawBXo",
-              "date": "2024-07-29",
-              "endDate": "2024-08-07",
-              "amount": 25
-            },
-            {
-              "guid": "OLY9sO71rl",
-              "date": "2024-08-08",
-              "endDate": "2024-08-17",
-              "amount": 25
-            },
-            {
-              "guid": "vUL-YAwTUP",
-              "date": "2024-08-18",
-              "endDate": "2024-08-18",
-              "amount": 3
-            }
-          ]
-        },
-        "_calendar": {
-          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=3b3e45786a8043db84ae25297b7e446d"
-        }
-      }
-    ],
+    "instances": ["BCh_DEXHt3"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph"
     }

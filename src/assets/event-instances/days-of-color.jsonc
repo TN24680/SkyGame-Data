@@ -1,0 +1,82 @@
+[
+  {
+    "guid": "lm7oA1sthb",
+    "name": "Days of Rainbow",
+    "shortName": "Rainbow",
+    "date": { "day": 10, "month": 6, "year": 2020 },
+    "endDate": { "day": 14, "month": 6, "year": 2020 }
+  },
+  {
+    "guid": "ZoR4kXzQLS",
+    "name": "Days of Rainbow",
+    "shortName": "Rainbow",
+    "date": { "day": 14, "month": 6, "year": 2021 },
+    "endDate": { "day": 27, "month": 6, "year": 2021 },
+    "shops": ["CwN0xJF-1M"],
+    "spirits": [
+      { "guid": "QB8tU5kao9", "spirit": "uPzMm5H7ag", "tree": "U2ZiRYwoR2" }
+    ]
+  },
+  {
+    "guid": "l1kxnP--Ws",
+    "name": "Days of Rainbow",
+    "shortName": "Rainbow",
+    "date": { "day": 30, "month": 6, "year": 2022 },
+    "endDate": { "day": 13, "month": 7, "year": 2022 },
+    "shops": ["ntVyLMOody", "jaDbvOGhtj"],
+    "spirits": [
+      { "guid": "Qep3FZt66w", "spirit": "uPzMm5H7ag", "tree": "cfK8l5Lor8" }
+    ]
+  },
+  {
+    "guid": "7H5NE9-K72",
+    "date": { "day": 1, "month": 6, "year": 2023 },
+    "endDate": { "day": 14, "month": 6, "year": 2023 },
+    "shops": ["30CKPEMCtZ", "vMM_7I_p9N"],
+    "spirits": [
+      { "guid": "aPWzZTzbkC", "spirit": "uPzMm5H7ag", "tree": "RcVnZHdgZ6" }
+    ],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Color-2418261c87dd80559a48ceedfb0c0cd5?pvs=25"
+    }
+  },
+  {
+    "guid": "Nw1QP8vccL",
+    "date": "2024-06-24",
+    "endDate": "2024-07-07",
+    "calculatorData": {
+      "dailyCurrencyAmount": 5
+    },
+    "spirits": [
+      { "guid": "Db5e396lo0", "spirit": "L8hK6RLQa_", "tree": "3YJalWDFZ7" }
+    ],
+    "shops": ["B80yCK6Rp4", "571vNLmi6N"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=ec63b6155c2a447c89487ae0936592ad"
+    }
+  },
+  {
+    "guid": "OK-kbLTjFP",
+    "date": "2025-05-26",
+    "endDate": "2025-06-08",
+    "spirits": [
+      { "guid": "fq25mINKii", "spirit": "L8hK6RLQa_", "tree": "J8x_QrviU0" }
+    ],
+    "shops": ["9hxOhxxmEr", "BcBq4Khxik"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "Mgn5eSqxuN",
+          "date": "2025-05-26",
+          "endDate": "2025-06-08",
+          "amount": 15,
+          "description": "Bonus event currency"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1d78261c87dd8081bf56e7b8ff9a91d5&pm=c"
+    }
+  }
+]

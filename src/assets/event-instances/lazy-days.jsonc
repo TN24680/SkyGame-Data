@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "Kj5S3mVVH9",
+    "date": { "day": 26, "month": 9, "year": 2022 },
+    "endDate": { "day": 16, "month": 10, "year": 2022 },
+    "shops": ["txCjbkOUCb"],
+    "spirits": [
+      { "guid": "k2AhzKJA_Z", "spirit": "aMY1ZPzcEx", "tree": "GoEvcTR42k" }
+    ]
+  }
+]

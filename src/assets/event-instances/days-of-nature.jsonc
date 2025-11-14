@@ -1,0 +1,71 @@
+[
+      {
+        "guid": "aSrD3lSoFW",
+        "date": { "day": 22, "month": 4, "year": 2020 },
+        "endDate": { "day": 26, "month": 4, "year": 2020 },
+        "shops": ["jYaYDMPEUR"]
+      },
+      {
+        "guid": "dZSkc1dV7U",
+        "date": { "day": 19, "month": 4, "year": 2021 },
+        "endDate": { "day": 2, "month": 5, "year": 2021 },
+        "shops": ["E6LZlAW128", "oc3Izvti83"]
+      },
+      {
+        "guid": "qSiOZI_8sQ",
+        "date": { "day": 18, "month": 4, "year": 2022 },
+        "endDate": { "day": 1, "month": 5, "year": 2022 },
+        "shops": ["HzR1C5d1am", "NNulaStjmr"],
+        "spirits": [
+          { "guid": "4A_HnQqlA9", "spirit": "3M1KSVgf49", "tree": "FDmDW9e9td" }
+        ]
+      },
+      {
+        "guid": "T3MrkNukUj",
+        "date": { "day": 20, "month": 4, "year": 2023 },
+        "endDate": { "day": 7, "month": 5, "year": 2023 },
+        "shops": ["KCnEUzQsIn", "7eYyfPCMwJ"],
+        "spirits": [
+          { "guid": "yQqAEm21ED", "spirit": "3M1KSVgf49", "tree": "EbPTRRdRBC" }
+        ],
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Days-of-Nature-2408261c87dd80ee86d9c2456c5c5c55?pvs=25"
+        }
+      },
+      {
+        "guid": "gNa15Daes3",
+        "date": { "day": 27, "month": 5, "year": 2024 },
+        "endDate": { "day": 16, "month": 6, "year": 2024 },
+        "calculatorData": {
+          "dailyCurrencyAmount": 4
+        },
+        "spirits": [
+          { "guid": "W0-7uIUr1t", "spirit": "3M1KSVgf49", "tree": "SyEw6hUkqc" }
+        ],
+        "shops": ["DLwlNPnR-r", "sYWYF2c2AJ"],
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=304cdc92e5424539aafd55d4d6bb8266"
+        }
+      },
+      {
+        "guid": "MY0FQKGDwt",
+        "date": "2025-04-28",
+        "endDate": "2025-05-18",
+        "spirits": [
+          { "guid": "j31zhvmXm5", "spirit": "3M1KSVgf49", "tree": "Ashb6wg0jD" }
+        ],
+        "calculatorData": {
+          "dailyCurrencyAmount": 5,
+          "timedCurrency": [
+            {
+              "guid": "nP3NCQTTZp",
+              "date": "2025-04-28",
+              "endDate": "2025-05-18",
+              "amount": 15,
+              "description": "Shells around Sanctuary Island"
+            }
+          ]
+        },
+        "shops": ["-oqsBuJpBi", "WkB5Rd3Ncl"]
+      }
+]

@@ -5,17 +5,7 @@
     "shortName": "Summer",
     "imageUrl": "https://img2.storyblok.com/fit-in/0x540/filters:format(webp)/f/108104/1152x648/b08d410eb7/daysofsummer-summerlightsheader.png",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "-tLqiqDLxU",
-        "date": { "day": 12, "month": 8, "year": 2021 },
-        "endDate": { "day": 25, "month": 8, "year": 2021 },
-        "shops": ["dgkpvIdu6r"],
-        "spirits": [
-          { "guid": "DfPcIzdjQ9", "spirit": "aMY1ZPzcEx", "tree": "mHHOSQWAM0" }
-        ]
-      }
-    ],
+    "instances": ["-tLqiqDLxU"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer"
     }

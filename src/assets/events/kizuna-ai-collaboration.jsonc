@@ -4,14 +4,7 @@
     "name": "Kizuna AI Collaboration",
     "shortName": "Kizuna AI",
     "recurring": false,
-    "instances": [
-      {
-        "guid": "rGOuzt_d-o",
-        "date": { "day": 25, "month": 2, "year": 2022 },
-        "endDate": { "day": 10, "month": 3, "year": 2022 },
-        "shops": ["djY7Ysc5Yf"]
-      }
-    ],
+    "instances": ["rGOuzt_d-o"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Kizuna_AI"
     }
