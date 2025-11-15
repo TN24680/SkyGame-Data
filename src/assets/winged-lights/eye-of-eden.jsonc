@@ -1,0 +1,96 @@
+[
+  // #region Eden
+  // First area
+  {
+    "guid": "DSTxmpHUbB",
+    "description": "In the building at the end of the opening area in Eye of Eden.",
+    "mapData": { "position": [-182.5, 267.31], "videoUrl": "Eden/1.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  // Fourth area
+  {
+    "guid": "1kVW4x7nYj",
+    "description": "In front of the tunnel at the end before the point of no return.",
+    "mapData": { "position": [-130.88, 256.13], "videoUrl": "Eden/2.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "kxJmOLwH6e",
+    "description": "First in the tunnel before the point of no return.",
+    "mapData": { "position": [-130.88, 258.63], "videoUrl": "Eden/3.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "3zT-KHGHA_",
+    "description": "Second in the tunnel before the point of no return.",
+    "mapData": { "position": [-130.88, 261.13], "videoUrl": "Eden/4.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "ahUFYVXgT8",
+    "description": "Third in the tunnel before the point of no return.",
+    "mapData": { "position": [-128.38, 256.13], "videoUrl": "Eden/5.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "NYSbSHTslP",
+    "description": "Fourth in the tunnel before the point of no return.",
+    "mapData": { "position": [-128.38, 258.63], "videoUrl": "Eden/6.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "uqOdibxRjD",
+    "description": "Fifth in the tunnel before the point of no return.",
+    "mapData": { "position": [-128.38, 261.13], "videoUrl": "Eden/7.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "WulN9av6-P",
+    "description": "Sixth in the tunnel before the point of no return.",
+    "mapData": { "position": [-125.88, 256.13], "videoUrl": "Eden/8.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "wyDIoyrZbw",
+    "description": "Seventh in the tunnel before the point of no return.",
+    "mapData": { "position": [-125.88, 258.63], "videoUrl": "Eden/9.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  {
+    "guid": "ng2YT7SXkx",
+    "description": "Eight in the tunnel before the point of no return.",
+    "mapData": { "position": [-125.88, 261.13], "videoUrl": "Eden/10.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
+    }
+  },
+  // #endregion
+  // #region Orbit
+  {
+    "guid": "DvYGWvjeOC",
+    "description": "Automatically received after leaving Orbit.",
+    "mapData": { "position": [-181.13, 197.38] },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Orbit"
+    }
+  }
+  // #endregion
+]

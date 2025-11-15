@@ -1,0 +1,85 @@
+[
+  // #region Days of Bloom (2021)
+  {
+    "guid": "EF1SdxSqWT",
+    "type": "Store",
+    "iaps": ["mdWojLD1RZ"]
+  },
+  // #endregion
+  // #region Days of Bloom (2022)
+  {
+    "guid": "BtRb90bYtH",
+    "type": "Store",
+    "iaps": ["SJrMMErd7U"]
+  },
+  {
+    "guid": "m1hOAdOvnx",
+    "type": "Spirit",
+    "spirit": "UNKzFTE5mB",
+    "iaps": ["rUGalz2aN1"]
+  },
+  // #endregion
+  // #region Days of Bloom (2023)
+  {
+    "guid": "VU-iQQPPoN",
+    "type": "Object",
+    "name": "Home Bloom Crate",
+    "iaps": ["skAZ2yHQ5q"]
+  },
+  {
+    "guid": "i1aaE0u8xS",
+    "type": "Object",
+    "name": "Forest Bloom Crate",
+    "iaps": ["HQNwM6uvpQ"]
+  },
+  {
+    "guid": "VPnMsfufZ3",
+    "type": "Store",
+    "iaps": ["zwPqSQZWLt", "mEvjH3h1gv"]
+  },
+  // #endregion
+  // #region Days of Bloom (2024)
+  {
+    "guid": "Qwm9ceRSki",
+    "type": "Store",
+    "iaps": ["BcxdW-iTA6"]
+  },
+  {
+    "guid": "zvuqUyGcUl",
+    "type": "Object",
+    "name": "Days of Bloom Crate",
+    "iaps": ["15aenJbpNM", "Ko_ViiBli0", "1ryX2u1XO3", "SBBe6Iy8P3"]
+  },
+  // #endregion
+  // #region Days of Bloom (2025)
+  {
+    "guid": "IGg3Nyhixt",
+    "type": "Object",
+    "name": "Sword Outfit Mannequin",
+    "itemList": "VAL3W30ClZ"
+  },
+  {
+    "guid": "FrkLX4jUTK",
+    "type": "Store",
+    "iaps": ["Y6-EEIOhTM"]
+  },
+  {
+    "guid": "BKpgOtPHLY",
+    "type": "Spirit",
+    "spirit": "U9vUspUuRp",
+    "iaps": [
+      "xG8KKVj3Sy",
+      "w_nGjqBYXi",
+      "Qaa8L4rCQd",
+      "MPTqCz-4gM",
+      "LEUKf4WJAO"
+    ]
+  },
+  {
+    "guid": "VrwWmzEMYR",
+    "type": "Object",
+    "name": "Little Prince Mannequin",
+    "iaps": ["XAH6R5Ub1W", "ffn9SevEDg", "ILNCp5exZ-"]
+  }
+  // #endregion
+]

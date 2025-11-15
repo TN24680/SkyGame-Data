@@ -1,0 +1,159 @@
+[
+  // #region Days of Mischief (2019)
+  {
+    "guid": "jhMTGpLlxV",
+    "type": "Store",
+    "iaps": ["H9VzxM1qIj", "OL4LXHgY8W"]
+  },
+  // #endregion
+  // #region Days of Mischief (2020)
+  {
+    "guid": "GJiMxfksmu",
+    "type": "Store",
+    "iaps": [
+      "iMCpfyWz9M",
+      "HSKDIn896y",
+      "Po8Q28AVSl",
+      "7-zZ6474F5",
+      "NF0tvGFN7T"
+    ]
+  },
+  // #endregion
+  // #region Days of Mischief (2021)
+  {
+    "guid": "txm1D8yjKM",
+    "type": "Spirit",
+    "spirit": "GzpxxWwGVG",
+    "iaps": ["kWLCPaGAbJ", "qsG4Q8p1DT", "DU6TNI8EZ-"]
+  },
+  {
+    "guid": "h4SPErtdmX",
+    "type": "Spirit",
+    "spirit": "smphYk9cPX",
+    "iaps": ["-e3FXCMnQ9", "USb4-jY7V2"]
+  },
+  {
+    "guid": "G95tJMU080",
+    "type": "Store",
+    "iaps": ["hD6xfWsujC", "RoNGpI5-2k", "xAmLnyE6vE", "3pWFv5hZ7F"]
+  },
+  // #endregion
+  // #region Days of Mischief (2022)
+  {
+    "guid": "NTt-KZd_Za",
+    "type": "Store",
+    "iaps": ["5G4gDL_3JS", "OWK46yMzBT"]
+  },
+  {
+    "guid": "MGl2DwfM6Y",
+    "type": "Spirit",
+    "spirit": "GwPybX8w0t",
+    "iaps": ["YGzHOyzdID", "qqwDpONxI7", "GrOexyslc-", "Z3aaCQvESq"]
+  },
+  {
+    "guid": "vl6JA53gfO",
+    "type": "Spirit",
+    "spirit": "smphYk9cPX",
+    "iaps": ["_XakvSmYcJ", "XhSWQUV17M"]
+  },
+  {
+    "guid": "JfjTkXjClo",
+    "type": "Spirit",
+    "spirit": "GzpxxWwGVG",
+    "iaps": ["6YG733Io27", "vcS6dtpG8N"]
+  },
+  // #endregion
+  // #region Days of Mischief (2023)
+  {
+    "guid": "9fm21Pk5Sf",
+    "type": "Store",
+    "iaps": ["pyYGBWvbwB", "HYV2lsfbuI", "BormRkmSSt"]
+  },
+  {
+    "guid": "joutFMbmnc",
+    "type": "Object",
+    "name": "Witch Hat",
+    "iaps": [
+      "iFNRTpx2oV",
+      "EJKU-alWQ9",
+      "brwUie9WNh",
+      "u0hxAVh1UC",
+      "sF4D_FVCvh",
+      "dyt-Uxhurs",
+      "BwTM5igSJ4",
+      "ulgfafTh33",
+      "WcjUg4tvi_",
+      "4JGWNM03tr"
+    ]
+  },
+  // #endregion
+  // #region Days of Mischief (2024)
+  {
+    "guid": "LN5hJvuPvC",
+    "type": "Store",
+    "iaps": ["w-NTZTRfuL", "ObY89zyeG-"]
+  },
+  {
+    "guid": "40FHzg2rq0",
+    "type": "Spirit",
+    "spirit": "TgUgZjfoMI",
+    "iaps": [
+      "ZN7RHRGuDt",
+      "PFY7C4Y6ib",
+      "OcmLTZj7VU",
+      "l8Rtc7w4Wq",
+      "uW19Qhu14Y",
+      "H2N8xkrVQQ"
+    ]
+  },
+  {
+    "guid": "NyBc3CvrTd",
+    "type": "Spirit",
+    "spirit": "GzpxxWwGVG",
+    "iaps": [
+      "nOmN3BI0O-",
+      "uDjNUswKgy",
+      "gNtcL_sWtZ",
+      "erMnzwZ08g",
+      "8uelcHFNKw",
+      "BkkepHnUnt",
+      "5c5W5j89fZ"
+    ]
+  },
+  // #endregion
+  // #region Days of Mischief (2025)
+  {
+    "guid": "EjA3EokYoz",
+    "type": "Object",
+    "name": "IAP Prop Box",
+    "itemList": "Q1km9ckoH-"
+  },
+  {
+    "guid": "mhn5l2qzol",
+    "type": "Store",
+    "iaps": ["jh1HAJhsh-", "x1qjYi8ew4"]
+  },
+  {
+    "guid": "oHvSscaCRO",
+    "type": "Object",
+    "name": "IAP Prop Box",
+    "iaps": [
+      "Wr_BX6VAho",
+      "zek4nLkOx2",
+      "FwadomhrU9",
+      "XrdSxb_uRA",
+      "d88ZewW9jn",
+      "Dc_csapXsW",
+      "Eab1J-Zp7H",
+      "yR9nsMWbTC",
+      "bDB0L4YVvX",
+      "hKeD6VUXjB",
+      "ttxVA6OcHP",
+      "8J8E3NsR2j",
+      "9lVPErJE6c",
+      "78KZ1oho5x",
+      "BWMYIynKIO"
+    ]
+  }
+  // #endregion
+]

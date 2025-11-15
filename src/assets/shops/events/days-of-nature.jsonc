@@ -1,0 +1,99 @@
+[
+  // #region Days of Nature (2020)
+  {
+    "guid": "jYaYDMPEUR",
+    "type": "Store",
+    "iaps": ["JDYVILff0q"]
+  },
+  // #endregion
+  // #region Days of Nature (2021)
+  {
+    "guid": "E6LZlAW128",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["zHnD_0mTCj"]
+  },
+  {
+    "guid": "oc3Izvti83",
+    "type": "Store",
+    "iaps": ["OHsxWZOsgs", "wH4Rolvr0R"]
+  },
+  // #endregion
+  // #region Days of Nature (2022)
+  {
+    "guid": "HzR1C5d1am",
+    "type": "Store",
+    "iaps": ["6z9qTWUzk7", "236RtTEBQ3"]
+  },
+  {
+    "guid": "NNulaStjmr",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["svdsqPs2us", "iZB1SPwUdk", "F3Kmy1dVb4"]
+  },
+  // #endregion
+  // #region Days of Nature (2023)
+  {
+    "guid": "KCnEUzQsIn",
+    "type": "Store",
+    "iaps": ["5RnFOO5fyy", "7anZDnNjVZ"]
+  },
+  {
+    "guid": "7eYyfPCMwJ",
+    "type": "Spirit",
+    "spirit": "8N9cC4SvzM",
+    "iaps": [
+      "DDArA8ChK7",
+      "4S27PaHoQ1",
+      "qA31Hf7t5b",
+      "ACq6i6UXTe",
+      "oOCf91th7-"
+    ]
+  },
+  // #endregion
+  // #region Days of Nature (2024)
+  {
+    "guid": "DLwlNPnR-r",
+    "type": "Store",
+    "iaps": ["cP9b081nYM", "sou0sDEkEW"]
+  },
+  {
+    "guid": "sYWYF2c2AJ",
+    "type": "Spirit",
+    "spirit": "8N9cC4SvzM",
+    "name": "Chill Sunbather (Event shop)",
+    "iaps": [
+      "xq1aeb_CTB",
+      "rvrKUucHgO",
+      "INm3xdbIU9",
+      "-fstK-lvah",
+      "_DCq4jxbNC",
+      "WemEddd2wK",
+      "j20angRqGk"
+    ]
+  },
+  // #endregion
+  // #region Days of Nature (2025)
+  {
+    "guid": "-oqsBuJpBi",
+    "type": "Store",
+    "iaps": ["5sO_q1MnG6", "6fgefdyfOb"]
+  },
+  {
+    "guid": "WkB5Rd3Ncl",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": [
+      "sGx1lPUWND",
+      "rS87ODFt3z",
+      "9GjwC5kUBG",
+      "EUYkE4-h6L",
+      "Z5byWXzJM8",
+      "Voqj10hmUW",
+      "bmH3Qkpou2",
+      "oLtbdA_bjP",
+      "dUfEqImdWR"
+    ]
+  }
+  // #endregion
+]

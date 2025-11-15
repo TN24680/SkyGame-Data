@@ -1,0 +1,23 @@
+[
+  // #region Days of Style (2023)
+  {
+    "guid": "31fpDpwmgr",
+    "type": "Store",
+    "iaps": ["n3KEOOprwe", "dwa7xvLVxV", "vRbHAZeLEz", "LRfQWHH7ot"]
+  },
+  // #endregion
+  // #region Days of Style (2024)
+  {
+    "guid": "S8yOonCTNk",
+    "type": "Store",
+    "iaps": ["aOfqv766r8"]
+  },
+  {
+    "guid": "Y4ohW7ioCN",
+    "type": "Spirit",
+    "spirit": "NbUg5yLpTg",
+    "name": "Style IAP Guide (Event Store)",
+    "iaps": ["ZV1PW2pPsN", "FR9FbtWXdg", "5LZSuhPZTP", "oaFdUOiZUd"]
+  }
+  // #endregion
+]

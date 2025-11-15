@@ -1,0 +1,25 @@
+[
+  {
+    "guid": "g52YibkF9n",
+    "type": "Store",
+    "iaps": ["g0xUcfeLuu", "pREv6Dms5y"]
+  },
+  {
+    "guid": "LO-BcdXa5D",
+    "type": "Object",
+    "name": "Runaway Mannequin",
+    "iaps": ["6uocGtwo0k", "J3R9Dby8UH"]
+  },
+  {
+    "guid": "3jAHLp9lZp",
+    "type": "Object",
+    "name": "To The Love Mannequin",
+    "iaps": ["o57dLz05Mz", "8xvcHtifMn"]
+  },
+  {
+    "guid": "ph-oKFD2TA",
+    "type": "Object",
+    "name": "Wings of AURORA Mannequin",
+    "iaps": ["Ool0q97DwR"]
+  }
+]

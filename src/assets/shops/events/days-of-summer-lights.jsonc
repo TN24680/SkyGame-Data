@@ -1,0 +1,16 @@
+[
+  // #region Days of Summer Lights (2020)
+  {
+    "guid": "mbEzwlWA7W",
+    "type": "Store",
+    "iaps": ["_NudGPNXnY"]
+  },
+  // #endregion
+  // #region Days of Summer Lights (2021)
+  {
+    "guid": "hmIkJrBgwH",
+    "type": "Store",
+    "iaps": ["Cb-na1jU70", "uqlKywsZyd"]
+  }
+  // #endregion
+]

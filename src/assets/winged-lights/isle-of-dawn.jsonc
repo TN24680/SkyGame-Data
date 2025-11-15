@@ -1,0 +1,85 @@
+[
+  // Sand Dunes
+  {
+    "guid": "-8ZzA17gRA",
+    "description": "On top of the mountain at the start of Isle of Dawn.",
+    "mapData": { "position": [-462.88, 303.88], "videoUrl": "Isle/1.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
+    }
+  },
+  {
+    "guid": "zhBAUiJptT",
+    "description": "On top of a small boat at the start of the Sand Dunes.",
+    "mapData": { "position": [-459.44, 309.06], "videoUrl": "Isle/2.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
+    }
+  },
+  {
+    "guid": "OS7R6fkcT9",
+    "description": "Behind a light gate on the right side of the Sand Dunes.",
+    "mapData": { "position": [-448, 315.25], "videoUrl": "Isle/3.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
+    }
+  },
+  {
+    "guid": "9fPSNUhxmp",
+    "description": "Behind the Migration campsite.",
+    "mapData": { "position": [-452, 280], "videoUrl": "Isle/10.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
+    }
+  },
+  {
+    "guid": "gfQnk_B1mN",
+    "description": "On the ramp leading up to the Isle Temple.",
+    "mapData": { "position": [-430.38, 294], "videoUrl": "Isle/4.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
+    }
+  },
+  // Butterfly Cave
+  {
+    "guid": "vGCXUjMLfB",
+    "description": "In the tunnel at the top of Butterfly Cave.",
+    "mapData": { "position": [-406.81, 321.56], "videoUrl": "Isle/5.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Butterfly_Cave"
+    }
+  },
+  // Trials
+  {
+    "guid": "LOr9OqWHQv",
+    "description": "At the end of the Trial of Water.",
+    "mapData": { "position": [-396.5, 336], "videoUrl": "Isle/6.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
+    }
+  },
+  {
+    "guid": "BPnMAjL286",
+    "description": "At the end of the Trial of Earth.",
+    "mapData": { "position": [-387.75, 345.38], "videoUrl": "Isle/7.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
+    }
+  },
+  {
+    "guid": "7IpuFMAIXe",
+    "description": "At the end of the Trial of Air.",
+    "mapData": { "position": [-387.5, 358.5], "videoUrl": "Isle/8.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
+    }
+  },
+  {
+    "guid": "89a0rCfJL-",
+    "description": "At the end of the Trial of Fire.",
+    "mapData": { "position": [-397.69, 362.88], "videoUrl": "Isle/9.mp4" },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
+    }
+  }
+]

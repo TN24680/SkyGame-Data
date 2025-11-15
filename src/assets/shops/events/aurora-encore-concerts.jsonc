@@ -1,0 +1,52 @@
+[
+  // #region AURORA Encore Concerts
+  {
+    "guid": "wX_deEZTy9",
+    "type": "Store",
+    "iaps": ["SE1PMpYNqc", "nVHTeXM_ta", "v-SU-ROcQr"]
+  },
+  {
+    "guid": "JX7iEUoVkg",
+    "type": "Object",
+    "name": "Runaway Mannequin",
+    "iaps": ["I1zcPgQt_W", "Gij-TiHA3i"]
+  },
+  {
+    "guid": "LxwKC9-ULx",
+    "type": "Object",
+    "name": "To The Love Mannequin",
+    "iaps": ["OTJsDJNj98", "zMYBkYtUM2"]
+  },
+  {
+    "guid": "r8AP1_WzAv",
+    "type": "Object",
+    "name": "Wings of AURORA Mannequin",
+    "iaps": ["Nn_ORL__wP"]
+  },
+  // #endregion
+  // #region AURORA Homecoming Concert (2025)
+  {
+    "guid": "RHk-FddHZx",
+    "type": "Store",
+    "iaps": ["9CY9ZuRnX9", "QVs45L8tMt", "fLApkJ8Zyn"]
+  },
+  {
+    "guid": "uANAClB_6I",
+    "type": "Object",
+    "name": "Runaway Mannequin",
+    "iaps": ["WoqNqPjm7p", "pMv3KyVxHx"]
+  },
+  {
+    "guid": "mKzOX4rWG-",
+    "type": "Object",
+    "name": "To The Love Mannequin",
+    "iaps": ["kuzbQO4-Fd", "aby5PKss6g"]
+  },
+  {
+    "guid": "p0-DJsTxcv",
+    "type": "Object",
+    "name": "Wings of AURORA Mannequin",
+    "iaps": ["cKKbbELBsO"]
+  }
+  // #endregion
+]

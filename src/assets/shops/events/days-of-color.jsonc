@@ -1,0 +1,65 @@
+[
+  // #region Days of Color (2023)
+  {
+    "guid": "30CKPEMCtZ",
+    "type": "Spirit",
+    "spirit": "9eBpHjtudy",
+    "iaps": [
+      "rr0QGIp9XU",
+      "rGTp0gsGiq",
+      "fLf2W0LRmp",
+      "ZyQyOGjhxq",
+      "i8YKacC-T9"
+    ]
+  },
+  {
+    "guid": "vMM_7I_p9N",
+    "type": "Store",
+    "iaps": ["JZeO-kuj4g", "c_adKtYeV1"]
+  },
+  // #endregion
+  // #region Days of Color (2024)
+  {
+    "guid": "B80yCK6Rp4",
+    "type": "Store",
+    "iaps": ["XbLrnItDCF", "2cNySqt3Gt"]
+  },
+  {
+    "guid": "571vNLmi6N",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": [
+      "7zvNQ-PQ1C",
+      "G8ESKgY1Mu",
+      "SGDO0ODVA7",
+      "QTiUgCUGTd",
+      "Y5g-xnRjnT",
+      "nOMX1P8rHy",
+      "voKWceeZKu"
+    ]
+  },
+  // #endregion
+  // #region Days of Color (2025)
+  {
+    "guid": "9hxOhxxmEr",
+    "type": "Store",
+    "iaps": ["3myg1K_NVD", "v__sPzDxDa"]
+  },
+  {
+    "guid": "BcBq4Khxik",
+    "type": "Spirit",
+    "spirit": "8govamcy_2",
+    "iaps": [
+      "niXRqrDBPE",
+      "S4wXyHtoOe",
+      "i26sHsdWSP",
+      "l9QzabG_At",
+      "t4TQD7wkX4",
+      "BRXIbPRO5K",
+      "6sytee2Pft",
+      "v2IWAJCRM0",
+      "6d47mXYSYb"
+    ]
+  }
+  // #endregion
+]

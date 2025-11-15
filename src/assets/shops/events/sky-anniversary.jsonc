@@ -1,0 +1,48 @@
+[
+  // #region Sky Anniversary (2023)
+  {
+    "guid": "RCDqXv4la1",
+    "type": "Store",
+    "iaps": ["HYun7FYMGn"]
+  },
+  // #endregion
+  // #region SkyFest (2024)
+  {
+    "guid": "p6bDGXvYBq",
+    "type": "Store",
+    "name": "",
+    "iaps": ["YaZApTNucX", "bKxtksJv4J"]
+  },
+  {
+    "guid": "wsD3OQB-Cp",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["-ffdnMJH4w"]
+  },
+  // #endregion
+  // #region Sky Anniversary (2025)
+  {
+    "guid": "JQ7fDlgkkP",
+    "type": "Store",
+    "iaps": ["uuZ-VMISUm", "sszAOFSGjF", "rpl4TX5I4v"]
+  },
+  {
+    "guid": "MWG4-11wq3",
+    "type": "Spirit",
+    "spirit": "ExkE9a7QJ0",
+    "iaps": ["t1S_HJ7l3A"]
+  },
+  {
+    "guid": "_nN6T9eeX3",
+    "type": "Spirit",
+    "spirit": "tam_Fpnh1g",
+    "iaps": ["-dyNdYI7we", "np5SZyLLvS"]
+  },
+  {
+    "guid": "fW8k6x5E9q",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "6xcRtS6B4f"
+  }
+  // #endregion
+]

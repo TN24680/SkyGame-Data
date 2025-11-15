@@ -1,0 +1,92 @@
+[
+  // #region Days of Fortune (2021)
+  {
+    "guid": "cgSX8-JQkw",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["P0xxZcQSx5", "ED9dHqWNc9", "KbPeQWUPlV"]
+  },
+  // #endregion
+  // #region Days of Fortune (2022)
+  {
+    "guid": "etiMAAMrUG",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": [
+      "OT4AzH9NaZ",
+      "YoxGgvFzsV",
+      "h4gJ7No20s",
+      "pTTfhnjNgn",
+      "exZs0drSPp"
+    ]
+  },
+  // #endregion
+  // #region Days of Fortune (2023)
+  {
+    "guid": "wgSxDUgZTU",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": [
+      "r2n8t9EH20",
+      "pSgQ6p1m0V",
+      "Kz45-rQStP",
+      "LGhtWH5wmF",
+      "btFQ4ccT5r"
+    ]
+  },
+  {
+    "guid": "eYY7XDLRsH",
+    "type": "Store",
+    "iaps": ["f2wGOnTOGl", "kYwAczfKLX"]
+  },
+  // #endregion
+  // #region Days of Fortune (2024)
+  {
+    "guid": "N1ioU0ztzJ",
+    "type": "Store",
+    "iaps": ["GQirzPYKk-", "xc37pb6Wvb", "XMyw8g-P8x"]
+  },
+  {
+    "guid": "B6AeQqeM0E",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["28rCsz9wUP", "NVsMGCUZek", "cjTDXNkvN1"]
+  },
+  {
+    "guid": "9HhEIMjSWV",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["vrUAy0EAun", "JPyUHMKT5R", "4jMCH8Vl-x", "AZNU4TiFyl"]
+  },
+  // #endregion
+  // #region Days of Fortune (2025)
+  {
+    "guid": "ayisX-J93w",
+    "type": "Store",
+    "iaps": ["cBTKelBA5U", "oyY4AabfTV"]
+  },
+  {
+    "guid": "1lS9GJ3liN",
+    "type": "Spirit",
+    "spirit": "9VkjVkgKhb",
+    "iaps": [
+      "HP8tzNGfxD",
+      "cHyMg_9nlp",
+      "1f6Qmtj6ky",
+      "Q_7Frf2GYq",
+      "MoDvjHmShG",
+      "VB-jRRkTT2",
+      "4u_4x-CMZZ",
+      "_n5CGfOGJ-",
+      "b420MucTja",
+      "EAeyExxT3H"
+    ]
+  },
+  {
+    "guid": "saHnBjtusY",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "vod3TNMT3W"
+  }
+  // #endregion
+]

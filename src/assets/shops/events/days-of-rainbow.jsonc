@@ -1,0 +1,22 @@
+[
+  // #region Days of Rainbow (2021)
+  {
+    "guid": "CwN0xJF-1M",
+    "type": "Store",
+    "iaps": ["phpvRx9BAL", "o64dAgrcEN"]
+  },
+  // #endregion
+  // #region Days of Rainbow (2022)
+  {
+    "guid": "ntVyLMOody",
+    "type": "Spirit",
+    "spirit": "9eBpHjtudy",
+    "iaps": ["HEeaH4p5wn"]
+  },
+  {
+    "guid": "jaDbvOGhtj",
+    "type": "Store",
+    "iaps": ["ynQuCl7q9Z", "T_daeF3aRQ", "rWoC4IM-tj"]
+  }
+  // #endregion
+]

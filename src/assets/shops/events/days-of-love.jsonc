@@ -1,0 +1,81 @@
+[
+  // #region Days of Love (2020)
+  {
+    "guid": "b6QkhZumfk",
+    "type": "Store",
+    "iaps": ["FlOGVYjyiY"]
+  },
+  // #endregion
+  // #region Days of Love (2021)
+  {
+    "guid": "AVZC5sL-ZT",
+    "type": "Store",
+    "iaps": ["-gWkeP967A", "SMZdQolABl"]
+  },
+  // #endregion
+  // #region Days of Love (2022)
+  {
+    "guid": "Qui5cN01A3",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["8K7K3lo1Au", "W4ZTCF4QNi"]
+  },
+  {
+    "guid": "0UnDE-9JQY",
+    "type": "Store",
+    "iaps": ["2Izzp9weB5"]
+  },
+  // #endregion
+  // #region Days of Love (2023)
+  {
+    "guid": "dosWjd_0Ur",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["Ez2DeNbquI", "9Zfj0X2wNt", "P17exQBRvH"]
+  },
+  {
+    "guid": "4mcmO11hCE",
+    "type": "Store",
+    "iaps": ["65mCMf_2ZQ", "GfzBBN17Gm"]
+  },
+  // #endregion
+  // #region Days of Love (2024)
+  {
+    "guid": "Gpcii_q0ie",
+    "type": "Store",
+    "iaps": ["UXec8cY3C8"]
+  },
+  {
+    "guid": "-gDmtZfZgy",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["YtTUStyCGy", "zdU7dbNcG0", "38RSjUYhZR"]
+  },
+  {
+    "guid": "zZa_567vOp",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": ["JLjsFmtey7", "cVvWv3Nf7F"]
+  },
+  // #endregion
+  // #region Days of Love (2025)
+  {
+    "guid": "lGcnwxrDbk",
+    "type": "Store",
+    "iaps": ["V28-mtG9V2", "kE_RqeOcHu"]
+  },
+  {
+    "guid": "61jGnEuTi1",
+    "type": "Spirit",
+    "spirit": "G2seKIqYu1",
+    "iaps": [
+      "vhY_nNnIgw",
+      "qlpuZv73qW",
+      "y_2ImmOBeU",
+      "G-TAkmqX-9",
+      "MOhYCFQgyc",
+      "TjwhHy9niu"
+    ]
+  }
+  // #endregion
+]

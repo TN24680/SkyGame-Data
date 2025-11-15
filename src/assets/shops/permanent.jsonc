@@ -1,0 +1,77 @@
+[
+  {
+    "guid": "BTcODyaWw0",
+    "type": "Store",
+    "permanent": true,
+    "iaps": ["h7MofWX407"]
+  },
+  {
+    "guid": "wKkwWi5qdC",
+    "type": "Spirit",
+    "spirit": "ExkE9a7QJ0",
+    "permanent": "office",
+    "iaps": ["afs8y8FfTS", "37HKvA4bBc", "3uTp2mfgQj"]
+  },
+  {
+    "guid": "asYb2Serjg",
+    "type": "Object",
+    "name": "Aviary Event Store",
+    "permanent": "event",
+    "iaps": ["c4cZcnuZPk", "5IuZMyMZnO"]
+  },
+  {
+    "guid": "QtpcAqvc4g",
+    "type": "Store",
+    "name": "Premium Candle Store (Switch)",
+    "permanent": true,
+    "iaps": ["1HjO9K58mP"]
+  },
+  {
+    "guid": "RLDuUaL17F",
+    "type": "Object",
+    "name": "Beta reward (unavailable)",
+    "permanent": "office",
+    "iaps": ["IquijQ-cfu"]
+  },
+  {
+    "guid": "F1xMux6TNy",
+    "type": "Object",
+    "name": "Aviary Event Store",
+    "permanent": "event",
+    "iaps": ["7kg6h7Xf5l", "QwEXWrziHq"]
+  },
+  {
+    "guid": "SnbeExzeMM",
+    "type": "Object",
+    "name": "Harmony Hall Counter",
+    "permanent": "harmony",
+    "iaps": [
+      "dyqX00yWC0",
+      "TAdqkadSjD",
+      "5VJfMMrFV1",
+      "Q0Cze2DKAF",
+      "frvgJDX_Cu"
+    ]
+  },
+  {
+    "guid": "Vrrbqd2iPV",
+    "type": "Object",
+    "name": "Aviary Event Store (Steam)",
+    "permanent": "event",
+    "itemList": "6AS-92sc6t"
+  },
+  {
+    "guid": "vzNxDn2Nru",
+    "type": "Object",
+    "name": "Cinema Mannequin",
+    "permanent": "cinema",
+    "iaps": ["rY0Zs2qcDM"]
+  },
+  {
+    "guid": "he4MHA7_uC",
+    "type": "Object",
+    "name": "Nesting Workshop Counter",
+    "permanent": "nesting",
+    "itemList": "AKNI67tVW-"
+  }
+]

@@ -12,7 +12,7 @@ https://www.npmjs.com/package/skygame-data
 
 ### Versioning
 
-To make sure the format of data doesn't change unexpectedly, this project follows [Semantic Versioning](https://semver.org/).
+To make sure the format of data doesn't change unexpectedly, this project follows [Semantic Versioning](https://docs.npmjs.com/about-semantic-versioning).
 
 * **Major** versions are incremented when the structure of assets classified as "stable" changes.
 * **Minor** versions are incremented when backward-compatible changes are made to the data, or when assets classified as "unstable" are changed.
@@ -28,12 +28,12 @@ Below are some examples for the `everything.json` file.
 | Latest  | <https://unpkg.com/skygame-data@latest/assets/everything.json> |
 | Latest within major 1 | <https://unpkg.com/skygame-data@1.x.x/assets/everything.json> |
 | Latest within minor 1.0 | <https://unpkg.com/skygame-data@1.0.x/assets/everything.json> |
- Version 1.0.0 | <https://unpkg.com/skygame-data@1.0.0/assets/everything.json> |
+| Version 1.0.0 | <https://unpkg.com/skygame-data@1.0.0/assets/everything.json> |
 
 
 ## Assets
 
-**Stable**
+**Stable** (see [versioning](#versioning))
 
 ```
 realms, areas, winged-lights, map-shrines, constellations,
