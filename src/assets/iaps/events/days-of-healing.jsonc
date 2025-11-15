@@ -1,0 +1,11 @@
+[
+  // #region Days of Healing (2020)
+  {
+    "guid": "mec9z8iJUX",
+    "name": "Healing Pack",
+    "price": 19.99,
+    "items": ["cM5zZKzBkO"],
+    "c": 75
+  }
+  // #endregion
+]

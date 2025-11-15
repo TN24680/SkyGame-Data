@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/skygame-data)](https://www.npmjs.com/package/skygame-data)
 
-A fan-made data repository for Sky: Children of the Light. This project contains the raw data that fuels [SkyGame-Planner](https://github.com/Silverfeelin/SkyGame-Planner). The data has been separated to make it easier to consume in other projects.
+A fan-made data repository for Sky: Children of the Light. This project contains the raw data that fuels [SkyGame-Planner](https://github.com/Silverfeelin/SkyGame-Planner). The data has been separated to make it easier to consume in other projects. Do note that various bits of data are tightly coupled to the Sky Planner, such as linking to image assets contained in that project.
 
 ## Package
 

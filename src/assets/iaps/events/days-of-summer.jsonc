@@ -1,0 +1,16 @@
+[
+  // #region Days of Summer (2021)
+  {
+    "guid": "of257qu0my",
+    "name": "Days of Summer Umbrella",
+    "price": 19.99,
+    "items": ["4CYafmMUql"]
+  },
+  {
+    "guid": "09o4l_zgOw",
+    "name": "Days of Summer Shell Hair Pin",
+    "price": 0.99,
+    "items": ["eruG9WiyJZ"]
+  }
+  // #endregion
+]

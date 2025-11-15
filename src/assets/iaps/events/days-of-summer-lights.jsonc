@@ -1,0 +1,27 @@
+[
+  // #region Days of Summer Lights (2020)
+  {
+    "guid": "_NudGPNXnY",
+    "name": "Days of Summer Lights Lantern",
+    "price": 19.99,
+    "c": 35,
+    "items": ["5xJ_mCzZQy"]
+  },
+  // #endregion
+  // #region Days of Summer Lights (2021)
+  {
+    "guid": "Cb-na1jU70",
+    "name": "Days of Summer Lights Lantern",
+    "price": 19.99,
+    "c": 35,
+    "returning": true,
+    "items": ["5xJ_mCzZQy"]
+  },
+  {
+    "guid": "uqlKywsZyd",
+    "name": "Days of Summer Lights Bunny Hat",
+    "price": 2.99,
+    "items": ["EEFIpR6x7Q"]
+  }
+  // #endregion
+]

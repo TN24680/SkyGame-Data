@@ -1,0 +1,383 @@
+[
+  // #region Days of Fortune
+  // Days of Fortune (2021)
+  {
+    "guid": "grBXyl9kdw",
+    "node": "9V57DrIUNo"
+  },
+  // Days of Fortune (2022)
+  {
+    "guid": "jnq2S5ihN_",
+    "node": "cnCiI7zstu"
+  },
+  {
+    "guid": "Cfa81cTc1x",
+    "node": "XAJZaI3Zif"
+  },
+  // Days of Fortune (2023)
+  {
+    "guid": "Oi0WztDirX",
+    "node": "zkh35ZE3J_"
+  },
+  // Days of Fortune (2024)
+  {
+    "guid": "QbHVq43AMl",
+    "node": "ZtC0aan5z-"
+  },
+  // #endregion
+  // #region Days of Fortune (2025)
+  {
+    "guid": "8rT8bSDhqL",
+    "node": "B0N05K4Bre"
+  },
+  // #endregion
+  // #region Days of Love
+  // Days of Love 2021
+  {
+    "guid": "3pb_Tfne7M",
+    "node": "IZbM47BixN"
+  },
+  // Days of Love 2022
+  {
+    "guid": "CIOxUbOvxM",
+    "node": "dpb9d6_p4i"
+  },
+  {
+    "guid": "TdnkeRcqGR",
+    "node": "YMjY2A84bM"
+  },
+  // Days of Love 2023
+  {
+    "guid": "O8EcMfr4-R",
+    "node": "0OwYXsTmje"
+  },
+  {
+    "guid": "NuqYNp7i8O",
+    "node": "uXmw3Tu3PQ"
+  },
+  // Days of Love 2024
+  {
+    "guid": "3B4XeRLIrO",
+    "node": "yUNUCsYx9f"
+  },
+  // #endregion
+  // #region Days of Love (2025)
+  {
+    "guid": "xnZrEGPst_",
+    "node": "OnOHDkxayL"
+  },
+  // #endregion
+  // #region Days of Treasure (2025)
+  { "guid": "JU8XT42DBX", "node": "lIGOW1C9eA" },
+  // #endregion
+  // #region Days of Bloom
+  // Days of Bloom 2021
+  {
+    "guid": "c8KLFXw7Qh",
+    "node": "cQSMKHE-9K"
+  },
+  // Days of Bloom 2022
+  {
+    "guid": "qXCroH8_X9",
+    "node": "5qLFwCCKZS"
+  },
+  // Days of Bloom 2023
+  {
+    "guid": "fLuM8drQ4H",
+    "node": "JNRuX5nyjB"
+  },
+  {
+    "guid": "Cz7AcNalLH",
+    "node": "svvcWfAB17"
+  },
+  {
+    "guid": "yvuc0d_gC7",
+    "node": "KXsWsk9Zou"
+  },
+  // #region Days of Bloom (2024)
+  {
+    "guid": "95O0Urqxm0",
+    "node": "7DsPuIDwHZ"
+  },
+  {
+    "guid": "oDa9O5v-13",
+    "node": "0Oe41ToBtQ"
+  },
+  // #endregion
+  // #region Days of Bloom (2025)
+  { "guid": "YPSUX96fFc", "node": "wtmkTbdQzf" },
+  // #endregion
+  // #endregion
+  // #region Days of Nature
+  // Days of Nature 2022
+  {
+    "guid": "FDmDW9e9td",
+    "node": "cxhB2Ybq7_"
+  },
+  // Days of Nature 2023
+  {
+    "guid": "EbPTRRdRBC",
+    "node": "bu33c2FAgs"
+  },
+  // #region Days of Nature (2024)
+  {
+    "guid": "SyEw6hUkqc",
+    "node": "dDjdcgzxXb"
+  },
+  // #endregion
+  // #region Days of Nature (2025)
+  {
+    "guid": "Ashb6wg0jD",
+    "node": "lS85mkzLID"
+  },
+  // #endregion
+  // #endregion
+  // #region Days of Rainbow
+  // Days of Rainbow 2021
+  {
+    "guid": "U2ZiRYwoR2",
+    "node": "hUF5hywM3c"
+  },
+  // Days of Rainbow 2022
+  {
+    "guid": "cfK8l5Lor8",
+    "node": "Af7yfGmO9l"
+  },
+  // #endregion
+  // #region Days of Color (2023)
+  {
+    "guid": "RcVnZHdgZ6",
+    "node": "DThw1pOZyJ"
+  },
+  // #endregion
+  // #region Days of Color (2024)
+  {
+    "guid": "3YJalWDFZ7",
+    "node": "9OdKeadQcE"
+  },
+  // #endregion
+  // #region Days of Color (2025)
+  { "guid": "J8x_QrviU0", "node": "VY3t0JMl3q" },
+  // #endregion
+  // #region Days of Music (2023)
+  {
+    "guid": "l1qSIM0q3H",
+    "node": "MRl3tWIDfb"
+  },
+  // #endregion
+  // #region Days of Music (2024)
+  {
+    "guid": "jOEcQRyMJ-",
+    "node": "jDAnKekiFv"
+  },
+  // #endregion
+  // #region Sky Anniversary
+  // Sky Anniversary 2020
+  {
+    "guid": "I-LjDT1eZf",
+    "node": "lNIMl5bvaC"
+  },
+  // Sky Anniversary 2021
+  {
+    "guid": "HcWMbpEdVn",
+    "node": "9Xxqrj_Ldv"
+  },
+  // Sky Anniversary 2022
+  {
+    "guid": "SzK6rWR3nd",
+    "node": "gwVoKjjsPr"
+  },
+  // Sky Anniversary 2023
+  {
+    "guid": "JDrrgPjDCY",
+    "node": "Eeq1DptgjA"
+  },
+  // #region SkyFest (2024)
+  {
+    "guid": "Tp3TGsdzEb",
+    "node": "5Z8NmDaupw"
+  },
+  // #endregion
+  // Sky Anniversary 2025
+  { "guid": "DuDLYuznJK", "node": "GNFh2wSha5" },
+  // #endregion
+  // #region Days of Sunlight
+  // Days of Sunlight (2022)
+  {
+    "guid": "vIhlnkdWTh",
+    "node": "gDi7N-6Sap"
+  },
+  // Days of Sunlight (2023)
+  {
+    "guid": "QKeMWsP0vc",
+    "node": "WyUSJvIpdD"
+  },
+  // #endregion
+  // #region Days of Sunlight (2024)
+  {
+    "guid": "OBkSXsVvcQ",
+    "node": "1mezfgzjRi"
+  },
+  // #endregion
+  // #region Days of Sunlight (2025)
+  { "guid": "WvS399OTqy", "node": "BfFrc98Kea" },
+  // #endregion
+  // #region Days of Moonlight (2024)
+  {
+    "guid": "i_k3DZGBKo",
+    "node": "y1mrONbyUB"
+  },
+  // #endregion
+  // #region Days of Moonlight (2025)
+  { "guid": "CX1CIWT9Vw", "node": "XLtugqdh-y" },
+  // #endregion
+  // #region Lazy Days
+  // Lazy Days 2022
+  {
+    "guid": "GoEvcTR42k",
+    "node": "umrXZ_3yaW"
+  },
+  // #endregion
+  // #region Days of Style
+  // Days of Style (2023)
+  {
+    "guid": "IhEcryXJD_",
+    "node": "n7lKdvhcO1"
+  },
+  // #region Days of Style (2024)
+  {
+    "guid": "FBCPxTV_1R",
+    "node": "I8SYjbvjyt"
+  },
+  // #endregion
+  // #endregion
+  // #region Days of Mischief
+  // Mischief 2021
+  {
+    "guid": "EUQHt6adrz",
+    "node": "UYRvaTIPiX"
+  },
+  // Mischief 2022
+  {
+    "guid": "4YsCmESmY1",
+    "node": "3Czsl3VjA8"
+  },
+  // Mischief 2023
+  {
+    "guid": "OvltVBKe--",
+    "node": "DdcPH9g4AB"
+  },
+  // #region Days of Mischief (2025)
+  {
+    "guid": "EEU4caBgcq",
+    "node": "T8L7f4pFlA"
+  },
+  // #endregion
+  // #region Days of Mischief (2024)
+  {
+    "guid": "fqxSeHyZf1",
+    "node": "9qE6w9Oefi"
+  },
+  // #endregion
+  // #endregion
+  // #region Days of Feast
+  // Feast 2020
+  {
+    "guid": "zNffCKbbb2",
+    "node": "2h8cqvVNaS"
+  },
+  // Feast 2021
+  {
+    "guid": "GOwoxyHK4k",
+    "node": "CgxT4j5CY9"
+  },
+  {
+    "guid": "VjpAJQcwN0",
+    "node": "NCc7_rXKVC"
+  },
+  // Feast 2022
+  {
+    "guid": "6SsyXPH5Ow",
+    "node": "Wan3NQfKlx"
+  },
+  {
+    "guid": "WiF93W3zoc",
+    "node": "69Zfl648mU"
+  },
+  {
+    "guid": "wZKU-sX365",
+    "node": "62SxiNsM5D"
+  },
+  // #region Feast 2023
+  {
+    "guid": "jJU_PYq-f6",
+    "node": "l0lL5ysOr0"
+  },
+  {
+    "guid": "TMkvtnTJpH",
+    "node": "O2OgKg3p2H"
+  },
+  // Past
+  {
+    "guid": "zjAxD7je6L",
+    "node": "0WLDYtlqyt"
+  },
+  {
+    "guid": "ICyq_AXa3D",
+    "node": "MkPG2w_vGs"
+  },
+  {
+    "guid": "yvElaQPmYD",
+    "node": "bXvejgWpLD"
+  },
+  // #endregion
+  // #region Feast 2024
+  { "guid": "qMoUmkx_mj", "node": "pEledYU8hw" },
+  { "guid": "9ZM5bafAP6", "node": "_utmP-13Q7" },
+  // #endregion
+  // #endregion
+  // #region Harmony Hall Grand Opening
+  {
+    "guid": "15T8Gelv5Z",
+    "node": "WoT0pqpHnJ"
+  },
+  {
+    "guid": "bkdgyeUcbZ",
+    "node": "yTI_4xeq0k"
+  },
+  // #endregion
+  // #region Days of Summer
+  {
+    "guid": "mHHOSQWAM0",
+    "node": "M55c-swNeS"
+  },
+  // #endregion
+  // #region AURORA Encore Concerts
+  {
+    "guid": "Nx8MFZDTe-",
+    "node": "7x-cdEvdiH",
+    "name": "AURORA Guide - Encore",
+    "revisionType": "Limited"
+  },
+  // #endregion
+  // #region AURORA Homecoming Concert
+  {
+    "guid": "v2HU8RJ0L5",
+    "node": "-jPkPmG6b4",
+    "name": "AURORA Guide - Homecoming",
+    "revisionType": "Limited"
+  },
+  // #endregion
+  // #region Aviary's Firework Festival
+  {
+    "guid": "Pfnfzz3kGn",
+    "node": "qzjesJUZYH"
+  },
+  // #endregion
+  // #region Tournament of Triumph
+  {
+    "guid": "FnovR0E6SH",
+    "node": "Qbd0xTuOq-"
+  }
+  // #endregion
+]

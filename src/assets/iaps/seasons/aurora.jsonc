@@ -1,0 +1,44 @@
+[
+  {
+    "guid": "g0xUcfeLuu",
+    "name": "Tiara We Can Touch",
+    "price": 4.99,
+    "items": ["i0BYuPKZYe"]
+  },
+  {
+    "guid": "pREv6Dms5y",
+    "name": "Voice of AURORA",
+    "price": 14.99,
+    "items": ["K0NBv__mv8"]
+  },
+  {
+    "guid": "6uocGtwo0k",
+    "name": "Runaway Hairstyle",
+    "price": 2.99,
+    "items": ["wZGUtak1mb"]
+  },
+  {
+    "guid": "J3R9Dby8UH",
+    "name": "Runaway Outfit",
+    "price": 9.99,
+    "items": ["9kbdAvVwR4"]
+  },
+  {
+    "guid": "o57dLz05Mz",
+    "name": "To The Love Outfit",
+    "price": 9.99,
+    "items": ["4kOgGOEAQT"]
+  },
+  {
+    "guid": "8xvcHtifMn",
+    "name": "Giving In Cape",
+    "price": 14.99,
+    "items": ["JFV-ZmGQiu"]
+  },
+  {
+    "guid": "Ool0q97DwR",
+    "name": "Wings of AURORA",
+    "price": 24.99,
+    "items": ["EQYKoHE95s"]
+  }
+]

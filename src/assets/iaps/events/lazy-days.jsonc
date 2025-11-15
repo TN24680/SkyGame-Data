@@ -1,0 +1,32 @@
+[
+  // #region Lazy Days (2022)
+  {
+    "guid": "iluPHW_7kb",
+    "name": "Lantern Pack",
+    "price": 19.99,
+    "c": 35,
+    "returning": true,
+    "items": ["5xJ_mCzZQy"]
+  },
+  {
+    "guid": "koxW3plFiV",
+    "name": "Summer Parasol",
+    "price": 19.99,
+    "returning": true,
+    "items": ["4CYafmMUql"]
+  },
+  {
+    "guid": "rZUb4m5wQN",
+    "name": "Seashell Hairpin",
+    "price": 0.99,
+    "returning": true,
+    "items": ["eruG9WiyJZ"]
+  },
+  {
+    "guid": "mIrP9HEc7D",
+    "name": "Bunny Accessory",
+    "price": 2.99,
+    "items": ["EEFIpR6x7Q"]
+  }
+  // #endregion
+]
