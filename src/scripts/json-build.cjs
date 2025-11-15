@@ -1,7 +1,6 @@
 const path = require('path');
 const fs = require('fs');
 const jsonc = require('jsonc-parser');
-const { json } = require('stream/consumers');
 
 const dirSrcAssets = path.join(__dirname, '../assets');
 const dirOutAssets = path.join(__dirname, '../../assets');

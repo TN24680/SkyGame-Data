@@ -1,13 +1,23 @@
 {
   "name": "skygame-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data repository for SkyGame-Planner.",
   "scripts": {
     "json-build": "node ./src/scripts/json-build.cjs",
     "build": "npm run json-build && tsc"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./interfaces/*": {
+      "types": "./dist/interfaces/*.d.ts"
+    }
+  },
   "files": [
     "dist",
     "assets"
@@ -23,10 +33,13 @@
     "url": "https://github.com/Silverfeelin/SkyGame-Data/issues"
   },
   "devDependencies": {
+    "@types/luxon": "^3.7.1",
     "@types/node": "^24.10.1",
-    "clipboardy": "^5.0.0",
-    "jsonc-parser": "^3.3.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "jsonc-parser": "^3.3.1",
+    "luxon": "^3.7.2"
   }
 }
