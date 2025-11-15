@@ -1,0 +1,88 @@
+[
+  // #region Duets Guide
+  { "guid": "RTwKtxkvqi", "item": "DtfPuD-xSP", "n": "2fswREyaxJ" },
+  { "guid": "2fswREyaxJ", "item": "g5if_hfGQ-", "nw": "zLUfSW4pVU", "n": "EaE3N7kN0v", "ne": "iby7lIaFPB" },
+  { "guid": "iby7lIaFPB", "item": "3iG8im9Sgu", "n": "NEO0V_QhWq" },
+  { "guid": "NEO0V_QhWq", "item": "i9it79Bnon", "sh": 1, "n": "w2j-Z-vruS" },
+  { "guid": "w2j-Z-vruS", "item": "bOUW5LY8PU", "sh": 2, "n": "qUqOUDuxMR" },
+  { "guid": "qUqOUDuxMR", "item": "O9jSph-v7e", "sh": 2 },
+  { "guid": "zLUfSW4pVU", "item": "diBkeTRe1G", "c": 65 },
+  { "guid": "EaE3N7kN0v", "item": "25PSOB8TyZ", "nw": "GpBPsEWVPr", "n": "BdgMwWpdUv" },
+  { "guid": "GpBPsEWVPr", "item": "mEvAN9gteG" },
+  { "guid": "BdgMwWpdUv", "item": "kSUpmc7BGK", "nw": "uiFFvOV26K", "n": "R4Y_Q3RES_" },
+  { "guid": "uiFFvOV26K", "item": "xGUAqqh4hK" },
+  { "guid": "R4Y_Q3RES_", "item": "a2jmBtI7SB", "nw": "ooAEpXb7Bn", "n": "XtmRITBo-6" },
+  { "guid": "ooAEpXb7Bn", "item": "itrEoHB72a", "h": 8 },
+  { "guid": "XtmRITBo-6", "item": "pronMA7m25", "n": "mQ2jU8yZwP" },
+  { "guid": "mQ2jU8yZwP", "item": "kvggIFZaT3" },
+  // After Season
+  { "guid": "Qf34nNDqQ_", "item": "DtfPuD-xSP", "n": "f9G1cUZ3j5" },
+  { "guid": "f9G1cUZ3j5", "item": "g5if_hfGQ-", "nw": "6MAsqkAqFP", "n": "89by9zKzpo" },
+  { "guid": "6MAsqkAqFP", "item": "diBkeTRe1G", "c": 65 },
+  { "guid": "89by9zKzpo", "item": "25PSOB8TyZ", "nw": "Z1fDuki_oU", "n": "9eVHAXGDGG" },
+  { "guid": "Z1fDuki_oU", "item": "mEvAN9gteG" },
+  { "guid": "9eVHAXGDGG", "item": "kSUpmc7BGK", "nw": "A5WkwLAy_m", "n": "O3zh1fP2DD" },
+  { "guid": "A5WkwLAy_m", "item": "xGUAqqh4hK" },
+  { "guid": "O3zh1fP2DD", "item": "a2jmBtI7SB", "nw": "ThNBHH7MYv", "n": "mYEPxkVyYg" },
+  { "guid": "ThNBHH7MYv", "item": "itrEoHB72a", "h": 8 },
+  { "guid": "mYEPxkVyYg", "item": "pronMA7m25", "n": "oaCoMDLbv0" },
+  { "guid": "oaCoMDLbv0", "item": "kvggIFZaT3" },
+  // #endregion
+  // #region Duets
+  // #region Cellist's Beginnings
+  { "guid": "klGk-HXhP6", "item": "krE8-lSgNh", "sc": 20, "nw": "ni_Zpp_oim", "n": "pc8GNxOJAo" },
+  { "guid": "ni_Zpp_oim", "item": "aSFIx_KYoy" },
+  { "guid": "pc8GNxOJAo", "item": "l7wweQZZee", "sc": 26, "nw": "SSIHPlhLCN", "n": "wP5zZExgrT" },
+  { "guid": "SSIHPlhLCN", "item": "GNR4Or83IO" },
+  { "guid": "wP5zZExgrT", "item": "WTVL4L3IT-", "sc": 32, "nw": "XTZO3NaezV", "n": "gE2SbLCs4s" },
+  { "guid": "XTZO3NaezV", "item": "UWuovba0QU" },
+  { "guid": "gE2SbLCs4s", "item": "GzKcUk-Tzw", "sc": 3 },
+  // #endregion
+  // #region Pianist's Beginnings
+  { "guid": "MhQW8_5oJe", "item": "-F-7JGkkRf", "sc": 14, "nw": "YfQDDuTkmt", "n": "lGaitqwff7" },
+  { "guid": "YfQDDuTkmt", "item": "pLAgUoGFQ8" },
+  { "guid": "lGaitqwff7", "item": "I1B2G8p1uQ", "sc": 20, "nw": "6TGMPUcKG8", "n": "2AI3FARJ7P" },
+  { "guid": "6TGMPUcKG8", "item": "2RVqVbz8OP" },
+  { "guid": "2AI3FARJ7P", "item": "bswnrIV7vC", "sc": 24, "nw": "ZlfQi_6Y2e", "n": "R8PbOBnUxy" },
+  { "guid": "ZlfQi_6Y2e", "item": "tMT9whKoLk" },
+  { "guid": "R8PbOBnUxy", "item": "S9kEMk3Zii", "sc": 30, "nw": "TKzZHv9B7d", "n": "93HuF0OnrW" },
+  { "guid": "TKzZHv9B7d", "item": "Q3WniYqjbN" },
+  { "guid": "93HuF0OnrW", "item": "9LGf7mpwgd", "sc": 3 },
+  // #endregion
+  // #region Musicians' Legacy
+  { "guid": "pFyvw9hJcB", "item": "KG-rMox4G2", "sc": 14, "nw": "I2eU0keULV", "n": "Wl9yd-cPrn" },
+  { "guid": "I2eU0keULV", "item": "g8yG9W1k84" },
+  { "guid": "Wl9yd-cPrn", "item": "0Aeu5lQMJO", "sc": 24, "nw": "T7uQx2v8zc", "n": "mIC1PGTfH5" },
+  { "guid": "T7uQx2v8zc", "item": "WuZeLoUATs" },
+  { "guid": "mIC1PGTfH5", "item": "hnvn7nWtrl", "sc": 34, "nw": "5NI0hRi9iv", "n": "aj5_tFeGeX" },
+  { "guid": "5NI0hRi9iv", "item": "1JHImKQbo_" },
+  { "guid": "aj5_tFeGeX", "item": "0GzAe_7zrk", "sc": 3 },
+  // #endregion
+  // #region Cellist's Flourishing
+  { "guid": "OrlAJ5Mft8", "item": "FSiRt_Wh_m", "sc": 16, "nw": "ApzfWYIqEh", "n": "lePw35T9ls" },
+  { "guid": "ApzfWYIqEh", "item": "P1uShTqTqE" },
+  { "guid": "lePw35T9ls", "item": "SK5VqRoQrW", "sc": 18, "nw": "ep5h3HoDuw", "n": "rOQplr6ASS" },
+  { "guid": "ep5h3HoDuw", "item": "a_Fa3yhrQg" },
+  { "guid": "rOQplr6ASS", "item": "NN66BKlRfk", "sc": 22, "nw": "E8UygAUwbI", "n": "bd7XbTPj-7" },
+  { "guid": "E8UygAUwbI", "item": "vFTLFT1J7q" },
+  { "guid": "bd7XbTPj-7", "item": "Xvbx2xCXIY", "sc": 24, "nw": "FXKexB3fi7", "n": "7Cb8KFGeuj" },
+  { "guid": "FXKexB3fi7", "item": "tPukMxWUyv" },
+  { "guid": "7Cb8KFGeuj", "item": "InE35_ELM1", "sc": 3 },
+  // #endregion
+  // #region Pianist's Flourishing
+  { "guid": "1zy7qpbEoA", "item": "5C_ntpgIZ8", "sc": 12, "nw": "qy8Rj_7ays", "n": "gOpZ9MH8vw" },
+  { "guid": "qy8Rj_7ays", "item": "RCByalU9Om" },
+  { "guid": "gOpZ9MH8vw", "item": "x-R9MDgnUQ", "sc": 22, "nw": "DVOSRGpEd-", "n": "M8wvoqlBap" },
+  { "guid": "DVOSRGpEd-", "item": "UhrrppaxfR" },
+  { "guid": "M8wvoqlBap", "item": "9RkQ1ZoElh", "sc": 26, "nw": "gHX-7TcZRj", "n": "fKR-PgI0hh" },
+  { "guid": "gHX-7TcZRj", "item": "svs-TcEdo-" },
+  { "guid": "fKR-PgI0hh", "item": "yftX04x1e4", "sc": 3 },
+  // #endregion
+  // #region Compassionate Cellist
+  { "guid": "JbSDLaN0Xu", "item": "zojvgAwKBB", "nw": "5Zp6CYDD9F", "n": "9g-p0fPjOg", "ne": "3OG2FPAiik" },
+  { "guid": "5Zp6CYDD9F", "item": "J_UEHvMcbs", "c": 85 },
+  { "guid": "3OG2FPAiik", "item": "xFNf_ULNXD" },
+  { "guid": "9g-p0fPjOg", "item": "Q393hmCmPi", "c": 200 }
+  // #endregion
+  // #endregion
+]
