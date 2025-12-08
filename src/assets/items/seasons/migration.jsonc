@@ -717,10 +717,10 @@
   },
   {
     "id": 2864,
-    "guid": "cBfZD5uyzo", //Quest 8
-    "type":"Special",
-    "name": "Placeholder",
-    "icon": ""
+    "guid": "cBfZD5uyzo",
+    "type":"Quest",
+    "name": "Quest 8",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
   },
   {
     "id": 2865,
