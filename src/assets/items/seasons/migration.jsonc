@@ -855,10 +855,10 @@
     "type": "Furniture",
     "name": "Migration Bell",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d2/Migration-Guide-Bell-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Migration-Guide-Bell-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migration_Guide#Prop"
-    },
-    "order": ""
+    }
   },
   {
     "id": 2867,
@@ -870,8 +870,11 @@
   {
     "id": 2868,
     "guid": "wpZqxTG5l7",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": ""
+    "type": "Quest",
+    "name": "Quest 10",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#10"
+    }
   }
 ]
