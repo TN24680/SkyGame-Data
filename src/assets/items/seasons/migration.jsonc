@@ -735,6 +735,7 @@
     "type": "Furniture",
     "name": "Migration Bell",
     "icon": "https://sky-planner.com/assets/game/items/2866.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Migration-Guide-Bell-Prop.png",
     "order": ""
   },
   {
