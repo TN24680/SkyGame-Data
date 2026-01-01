@@ -202,7 +202,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Passage_Guide#Ultimate_Gifts"
     },
-    "order": 924
+    "order": 925
   },
   {
     "id": 1606,
@@ -417,7 +417,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tumbling_Troublemaker#Cape"
     },
-    "order": 922,
+    "order": 923,
     "group": "SeasonPass"
   },
   {
@@ -625,7 +625,7 @@
     "guid": "kk4P3a0tb_",
     "type": "Held",
     "subtype": "Instrument",
-    "name": "Manta Flute",
+    "name": "Manta Ocarina",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Passage-Overactive-Overachiever-Instrument-icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Passage-Overactive-Overachiever-Instrument.png",
     "_wiki": {
@@ -673,7 +673,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Overactive_Overachiever#Cape"
     },
-    "order": 923
+    "order": 924
   },
   {
     "id": 1646,

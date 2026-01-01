@@ -26,6 +26,7 @@
     "guid": "mIrP9HEc7D",
     "name": "Bunny Accessory",
     "price": 2.99,
+    "returning": true,
     "items": ["EEFIpR6x7Q"]
   }
   // #endregion
