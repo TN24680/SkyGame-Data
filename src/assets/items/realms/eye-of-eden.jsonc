@@ -149,7 +149,10 @@
     "type": "FaceAccessory",
     "group": "Elder",
     "name": "Valley Ultimate Mask A",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Elders-of-Valley-Ultimate-Mask-A-icon.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Elders-of-Valley-Ultimate-Mask-A-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    }
   },
   {
     "id": 2928,
@@ -157,6 +160,9 @@
     "type": "FaceAccessory",
     "group": "Elder",
     "name": "Valley Ultimate Mask B",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Elders-of-Valley-Ultimate-Mask-B-icon.png"
-  {
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Elders-of-Valley-Ultimate-Mask-B-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    }
+  }
 ]
