@@ -142,5 +142,29 @@
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 2927,
+    "guid": "VK3b1RyEwA",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask A",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Elders-of-Valley-Ultimate-Mask-A-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Elders-of-Valley-Ultimate-Mask-A.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    }
+  },
+  {
+    "id": 2928,
+    "guid": "oOmRXIzleH",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask B",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Elders-of-Valley-Ultimate-Mask-B-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Elders-of-Valley-Ultimate-Mask-B.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    }
   }
 ]
