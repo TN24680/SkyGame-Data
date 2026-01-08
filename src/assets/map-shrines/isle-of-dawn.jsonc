@@ -1,13 +1,13 @@
 [
   {
     "guid": "XjPXrh4ygg",
-    "description": "At the start of the Sand Dunes, near the winged light.",
+    "description": "Before the Passage Stone, near the winged light.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-First-Map-Shrine.webp",
     "mapData": { "position": [-457.88, 309.19] }
   },
   {
     "guid": "7qrYs-HaOu",
-    "description": "On top of a large rock in the Sand Dunes.",
+    "description": "On top of the Passage Stone.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Main-Path-Map-Shrine.webp",
     "mapData": { "position": [-447.88, 304.63] }
   },
