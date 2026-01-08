@@ -3,37 +3,15 @@
     "guid": "vWlW190-P1",
     "name": "Gate of Eden",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/entrance-720.webp",
+    "wingedLights": ["DSTxmpHUbB"],
     "mapShrines": ["QBGEZURf1h"],
     "mapData": { "position": [-193.25, 275.75] },
-    "connections": [{ "area": "aXSrTx3fzL" }]
-  },
-  {
-    "guid": "aXSrTx3fzL",
-    "name": "Eden First Area",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/eden/first-720.webp",
-    "wingedLights": ["DSTxmpHUbB"],
-    "mapData": { "position": [-183.25, 266] },
-    "connections": [{ "area": "vWlW190-P1" }, { "area": "xYRxil02Bm" }]
+    "connections": [{ "area": "xYRxil02Bm" }]
   },
   {
     "guid": "xYRxil02Bm",
-    "name": "Eden Second Area (rocks)",
+    "name": "Path of Eden",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/rocks-720.webp",
-    "mapData": { "position": [-169.75, 245.5] },
-    "connections": [{ "area": "aXSrTx3fzL" }, { "area": "49_QOAzf20" }]
-  },
-  {
-    "guid": "49_QOAzf20",
-    "name": "Eden Third Area (pipes)",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/eden/pipes-720.webp",
-    "mapShrines": ["NqwRQmN5QP"],
-    "mapData": { "position": [-150, 253.38] },
-    "connections": [{ "area": "xYRxil02Bm" }, { "area": "c84Uxu50_p" }]
-  },
-  {
-    "guid": "c84Uxu50_p",
-    "name": "Eden Fourth Area (rocks and krill)",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/eden/krill-720.webp",
     "wingedLights": [
       "1kVW4x7nYj",
       "kxJmOLwH6e",
@@ -45,15 +23,16 @@
       "wyDIoyrZbw",
       "ng2YT7SXkx"
     ],
-    "mapData": { "position": [-133.38, 258.63] },
-    "connections": [{ "area": "49_QOAzf20" }, { "area": "1-S3ZsNdV0" }]
+    "mapData": { "position": [-150.75, 250.5] },
+    "mapShrines": ["NqwRQmN5QP"],
+    "connections": [{ "area": "vWlW190-P1" }, { "area": "1-S3ZsNdV0" }]
   },
   {
     "guid": "1-S3ZsNdV0",
-    "name": "Point of No Return",
+    "name": "Eye of Eden",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/return-720.webp",
     "mapData": { "position": [-109, 265.25] },
-    "connections": [{ "area": "c84Uxu50_p" }, { "area": "3-YDmI4uL8" }]
+    "connections": [{ "area": "xYRxil02Bm" }, { "area": "3-YDmI4uL8" }]
   },
   {
     "guid": "3-YDmI4uL8",
