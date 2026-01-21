@@ -13,7 +13,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Feast_santa.jpg"
     },
-    "order": 313
+    "order": 319
   },
   {
     "id": 1877,
@@ -25,7 +25,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Horns"
     },
-    "order": 418,
+    "order": 426,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Feast_antlers.jpg",
       "primary": {}
@@ -45,7 +45,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Snowflake_Cape"
     },
-    "order": 1002
+    "order": 1020
   },
   {
     "id": 1879,
@@ -61,7 +61,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Cape"
     },
-    "order": 1001
+    "order": 1019
   },
   {
     "id": 1880,
@@ -73,7 +73,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Table"
     },
-    "order": 724
+    "order": 739
   },
   {
     "id": 1881,
@@ -85,7 +85,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Feast_Necktie"
     },
-    "order": 569
+    "order": 583
   },
   {
     "id": 1882,
@@ -132,7 +132,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Pillow"
     },
-    "order": 725
+    "order": 740
   },
   {
     "id": 1888,
@@ -148,7 +148,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Feast_pombeanie.jpg"
     },
-    "order": 314
+    "order": 320
   },
   {
     "id": 1889,
@@ -160,7 +160,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Scarf"
     },
-    "order": 570,
+    "order": 584,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Feast_scarf.jpg",
       "primary": {}
@@ -202,7 +202,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Snowglobe"
     },
-    "order": 727
+    "order": 742
   },
   {
     "id": 1894,
@@ -214,7 +214,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Snowflake_Hair_Accessory"
     },
-    "order": 378
+    "order": 385
   },
   {
     "id": 1895,
@@ -232,7 +232,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Ancestor_Cape"
     },
-    "order": 1003
+    "order": 1021
   },
   {
     "id": 1896,
@@ -251,7 +251,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Feast_Goggles"
     },
-    "order": 123,
+    "order": 126,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Feast_yetigoggles.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Feast_yetigoggles.jpg",
@@ -269,7 +269,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Snowkid_Prop"
     },
-    "order": 730
+    "order": 745
   },
   {
     "id": 1899,
@@ -281,7 +281,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Tournament_Skyball_Set"
     },
-    "order": 729
+    "order": 744
   },
   {
     "id": 1900,
@@ -299,7 +299,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Cozy_Hermit_Cape"
     },
-    "order": 1004
+    "order": 1022
   },
   {
     "id": 1976,
@@ -308,7 +308,7 @@
     "type": "HairAccessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3d/Winter-Pinecone-Headpiece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Winter-Pinecone-Headpiece.png",
-    "order": 379,
+    "order": 386,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Winter_Pinecone_Hair_Clip"
     }
@@ -320,7 +320,7 @@
     "type": "Held",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Winter-Feast-Snowboard-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Winter-Feast-Snowboard-prop.png",
-    "order": 739,
+    "order": 754,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Winter_Feast_Snowboard"
     }
@@ -342,7 +342,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Course_Creation_Prop"
     },
-    "order": 741
+    "order": 756
   },
   {
     "id": 2411,
@@ -365,7 +365,7 @@
     "type": "Shoes",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/ff/Cozy-Hermit-Boots-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Cozy-Hermit-Boots.png",
-    "order": 149,
+    "order": 152,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Cozy_Hermit_Boots"
     }
@@ -381,7 +381,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_peek.jpg"
     },
-    "order": 1005,
+    "order": 1023,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Winter_Quilted_Cape"
     }
@@ -400,7 +400,7 @@
     "name": "Wonderland Primrose Pinafore Dress",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Wonderland-Primrose-Pinafore-Dress-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/96/Wonderland-Primrose-Pinafore-Dress.png",
-    "order": 92,
+    "order": 95,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Primrose_Pinafore_Set"
     }
@@ -412,7 +412,7 @@
     "name": "Wonderland Primrose Pinafore Bow",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Wonderland-Primrose-Pinafore-bow-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Wonderland-Primrose-Pinafore-bow.png",
-    "order": 367,
+    "order": 374,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Primrose_Pinafore_Set"
     }
@@ -424,7 +424,7 @@
     "name": "Wonderland Cafe Corridor",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Wonderland-Cafe-Corridor-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Wonderland-Cafe-Corridor.png",
-    "order": 845,
+    "order": 860,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Cafe_Corridor"
     }
@@ -436,7 +436,7 @@
     "name": "Wonderland Teacup Bath",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Wonderland-Teacup-Bath-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Wonderland-Teacup-Bath-Prop.png",
-    "order": 844,
+    "order": 859,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Teacup_Bath"
     }
@@ -448,7 +448,7 @@
     "name": "Wonderland Stacked Hat",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/90/Wonderland-Stacked-Hat-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e8/Wonderland-Stacked-Hat.png",
-    "order": 368,
+    "order": 375,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Stacked_Hat"
     }
@@ -460,7 +460,7 @@
     "name": "Wonderland Hare Hairstyle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Wonderland-Hare-Hairstyle-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f1/Wonderland-Hare-Hairstyle.png",
-    "order": 316,
+    "order": 322,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Hare_Hairstyle"
     }
@@ -472,7 +472,7 @@
     "name": "Wonderland Frantic Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Wonderland-Frantic-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Wonderland-Frantic-Hair.png",
-    "order": 315,
+    "order": 321,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Frantic_Hair"
     }
@@ -528,7 +528,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Shawl_Cape"
     },
-    "order": 1006
+    "order": 1024
   },
   {
     "id": 2912,
@@ -544,7 +544,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Feast_Coat_Outfit"
     },
-    "order": 82
+    "order": 85
   },
   {
     "id": 2913,
@@ -560,7 +560,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Winter_Scarf_Cape"
     },
-    "order": 1007
+    "order": 1025
   },
   {
     "id": 2914,
@@ -576,7 +576,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Pillbox_Hat"
     },
-    "order": 369
+    "order": 376
   },
   {
     "id": 2915,
@@ -588,7 +588,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Horizontal_Ice_Block"
     },
-    "order": 797
+    "order": 812
   },
   {
     "id": 2916,
@@ -600,7 +600,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Vertical_Ice_Block"
     },
-    "order": 798
+    "order": 813
   },
   {
     "id": 2917,
@@ -612,7 +612,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Concave_Ice_Slide"
     },
-    "order": 800
+    "order": 815
   },
   {
     "id": 2918,
@@ -624,7 +624,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Convex_Ice_Slide"
     },
-    "order": 799
+    "order": 814
   },
   {
     "id": 2919,
@@ -636,7 +636,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Ice_Stool"
     },
-    "order": 795
+    "order": 810
   },
   {
     "id": 2920,
@@ -648,7 +648,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Small_Ice_Table"
     },
-    "order": 796
+    "order": 811
   },
   {
     "id": 2921,
@@ -660,7 +660,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Snowkid_Accessory"
     },
-    "order": 380
+    "order": 387
   },
   {
     "id": 2922,
@@ -676,6 +676,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Leg_Warmer"
     },
-    "order": 150
+    "order": 153
   }
 ]
