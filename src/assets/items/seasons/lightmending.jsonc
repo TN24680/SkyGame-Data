@@ -653,13 +653,13 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
-    "id": 2998, // Quest 4
+    "id": 2998, 
     "guid": "Vy7ojXH_pW",
     "type": "Special",
-    "name": "Placeholder",
-    "icon": "",
+    "name": "Quest 4",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#4"
     }
   },
   {
