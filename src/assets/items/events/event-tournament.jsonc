@@ -64,7 +64,7 @@
     "type": "Held",
     "name": "Tournament Ice Board",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a5/Tournament-Snowboard-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3a/Tournament-Ice-Snowboard.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Snowboard"
     },
@@ -76,7 +76,7 @@
     "type": "Hair",
     "name": "Tournament Wind Hairstyle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Tournament-Hairstyle-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Tournament-Sleek-Skating-Hair-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Hairstyle"
     },
@@ -120,7 +120,7 @@
     "type": "Cape",
     "name": "Tournament Crystalline Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Tournament-Crystalline-Cape-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Tournament-Crystalline-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Crystalline_Cape"
     },
@@ -131,10 +131,10 @@
     "guid": "Lymcgpd4Sv",
     "type": "Cape",
     "name": "Tournament Prairie Cape",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cc/Team-Prairie-Cape-Spell.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Team-Prairie-Cape-back.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Team_Capes"
     },
     "order": 1016
   },
@@ -143,10 +143,10 @@
     "guid": "HVd__mHdZO",
     "type": "Cape",
     "name": "Tournament Forest Cape",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c3/Team-Forest-Cape-Spell.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Team-Forest-Cape-back.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Team_Capes"
     },
     "order": 1018
   },
@@ -155,10 +155,10 @@
     "guid": "DjGSTi5m5d",
     "type": "Cape",
     "name": "Tournament Valley Cape",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/12/Team-Valley-Cape-Spell.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Team-Valley-Cape-back.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Team_Capes"
     },
     "order": 1017
   },
@@ -167,10 +167,10 @@
     "guid": "37qkM3gfQr",
     "type": "Cape",
     "name": "Tournament Wasteland Cape",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Team-Wasteland-Cape-Spell.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Team-Wasteland-Cape-back.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Team_Capes"
     },
     "order": 1015
   },
@@ -179,10 +179,10 @@
     "guid": "bFbmlKZtGO",
     "type": "Furniture",
     "name": "Tournament Podium",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Tournament-Podium-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Tournament-Podium.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Podium"
     },
     "order": 723
   },
@@ -190,11 +190,11 @@
     "id": 3011,
     "guid": "XOVXV5EpMk",
     "type": "Prop",
-    "name": "Tournament Prairie Banner",
-    "icon": "",
-    "previewUrl": "",
+    "name": "Tournament Prairie Flag",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Team-Prairie-Flag-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Team-Prairie-Flag.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Flags"
     },
     "order": 727
   },
@@ -202,11 +202,11 @@
     "id": 3012,
     "guid": "-QuJTqtrn0",
     "type": "Prop",
-    "name": "Tournament Forest Banner",
-    "icon": "",
-    "previewUrl": "",
+    "name": "Tournament Forest Flag",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/89/Team-Forest-Flag-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Team-Forest-Flag.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Flags"
     },
     "order": 726
   },
@@ -214,11 +214,11 @@
     "id": 3013,
     "guid": "vLvSsUTN0P",
     "type": "Prop",
-    "name": "Tournament Valley Banner",
-    "icon": "",
-    "previewUrl": "",
+    "name": "Tournament Valley Flag",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Team-Valley-Flag-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/77/Team-Valley-Flag.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Flags"
     },
     "order": 724
   },
@@ -226,11 +226,11 @@
     "id": 3014,
     "guid": "--wyCei-uH",
     "type": "Prop",
-    "name": "Tournament Wasteland Banner",
-    "icon": "",
-    "previewUrl": "",
+    "name": "Tournament Wasteland Flag",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/Team-Wasteland-Flag-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Team-Wasteland-Flag.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Flags"
     },
     "order": 725
   },
