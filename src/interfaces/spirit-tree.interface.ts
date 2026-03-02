@@ -20,7 +20,7 @@ export interface ISpiritTree extends IGuid {
 }
 
 export interface IRevisedSpiritTree extends ISpiritTree {
-  revisionType: 'DuringSeason' | 'AfterSeason' | 'Limited';
+  revisionType: 'DuringSeason' | 'AfterSeason' | 'Limited' | 'Patch';
 }
 
 export interface ISpiritTreeTier extends IGuid {
