@@ -726,21 +726,21 @@
   {
     "id": 3028,
     "guid": "iU4SddpHiA",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": "",
+    "type": "Quest",
+    "name": "Quest 9",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#9"
     }
   },
   {
     "id": 3029,
     "guid": "x3qmX6Ozq8",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": "",
+    "type": "Quest",
+    "name": "Quest 10",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#10"
     }
   },
   {
