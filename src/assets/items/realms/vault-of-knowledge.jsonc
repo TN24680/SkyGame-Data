@@ -39,7 +39,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Levitating_Adept#Hair"
     },
-    "order": 184
+    "order": 186
   },
   {
     "id": 314,
@@ -94,7 +94,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Levitating_Adept#Mask"
     },
-    "order": 108
+    "order": 110
   },
   {
     "id": 320,
@@ -136,7 +136,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Meditating_Monastic#Hair"
     },
-    "order": 185
+    "order": 187
   },
   {
     "id": 324,
@@ -191,7 +191,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Meditating_Monastic#Prop"
     },
-    "order": 658
+    "order": 663
   },
   {
     "id": 330,
@@ -258,7 +258,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_Whisperer#Cape"
     },
-    "order": 894
+    "order": 904
   },
   {
     "id": 337,
@@ -281,7 +281,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_Whisperer#Cape"
     },
-    "order": 903
+    "order": 913
   },
   {
     "id": 339,
@@ -344,7 +344,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Polite_Scholar#Hair"
     },
-    "order": 337
+    "order": 340
   },
   {
     "id": 346,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Hair"
     },
-    "order": 186
+    "order": 188
   },
   {
     "id": 350,
@@ -445,7 +445,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Cape"
     },
-    "order": 890
+    "order": 900
   },
   {
     "id": 356,
@@ -468,6 +468,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Cape"
     },
-    "order": 899
+    "order": 909
   }
 ]

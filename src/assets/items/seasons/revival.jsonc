@@ -145,7 +145,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hopeful_Steward_Ultimate_Guide#Hair"
     },
-    "order": 278
+    "order": 280
   },
   {
     "id": 1984,
@@ -178,7 +178,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hopeful_Steward#Ultimate_Gifts"
     },
-    "order": 562
+    "order": 566
   },
   {
     "id": 648,
@@ -191,7 +191,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hopeful_Steward#Ultimate_Gifts"
     },
-    "order": 277
+    "order": 279
   },
   {
     "id": 649,
@@ -204,7 +204,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hopeful_Steward#Ultimate_Gifts"
     },
-    "order": 971
+    "order": 981
   },
   {
     "id": 1693,
@@ -216,7 +216,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vestige_of_a_Deserted_Oasis#Hair"
     },
-    "order": 275
+    "order": 277
   },
   {
     "id": 1694,
@@ -249,7 +249,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vestige_of_a_Deserted_Oasis#Cape"
     },
-    "order": 967,
+    "order": 977,
     "group": "SeasonPass"
   },
   {
@@ -262,7 +262,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vestige_of_a_Deserted_Oasis#Shoes"
     },
-    "order": 139
+    "order": 141
   },
   {
     "id": 1698,
@@ -301,7 +301,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_of_a_Lost_Village#Cape"
     },
-    "order": 970,
+    "order": 980,
     "group": "SeasonPass"
   },
   {
@@ -341,7 +341,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_of_a_Lost_Village#Hair"
     },
-    "order": 276,
+    "order": 278,
     "group": "SeasonPass"
   },
   {
@@ -369,7 +369,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Echo_of_an_Abandoned_Refuge#Shoes"
     },
-    "order": 140,
+    "order": 142,
     "group": "SeasonPass"
   },
   {
@@ -415,7 +415,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Echo_of_an_Abandoned_Refuge#Cape"
     },
-    "order": 968,
+    "order": 978,
     "group": "SeasonPass"
   },
   {
@@ -428,7 +428,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Echo_of_an_Abandoned_Refuge#Hair_Accessory"
     },
-    "order": 349
+    "order": 352
   },
   {
     "id": 1714,
@@ -463,7 +463,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Remnant_of_a_Forgotten_Haven#Shoes"
     },
-    "order": 141,
+    "order": 143,
     "group": "SeasonPass"
   },
   {
@@ -480,7 +480,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Remnant_of_a_Forgotten_Haven#Cape"
     },
-    "order": 969
+    "order": 979
   },
   {
     "id": 1719,
@@ -507,7 +507,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Remnant_of_a_Forgotten_Haven#Hair_Accessory"
     },
-    "order": 350,
+    "order": 353,
     "group": "SeasonPass",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Revival_bow.jpg",

@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Cape"
     },
-    "order": 1004
+    "order": 1014
   },
   {
     "id": 1765,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Hair"
     },
-    "order": 305
+    "order": 307
   },
   {
     "id": 1766,
@@ -33,7 +33,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Teaset"
     },
-    "order": 737
+    "order": 742
   },
   {
     "id": 1767,
@@ -59,7 +59,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2022#Purple_Bloom_Cape"
     },
-    "order": 1005
+    "order": 1015
   },
   {
     "id": 1770,
@@ -78,7 +78,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2022#Purple_Bloom_Teaset"
     },
-    "order": 739
+    "order": 744
   },
   {
     "id": 1772,
@@ -97,7 +97,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2023#Red_Bloom_Cape"
     },
-    "order": 1006
+    "order": 1016
   },
   {
     "id": 1774,
@@ -109,7 +109,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2023#Bloom_Butterfly_Fountain"
     },
-    "order": 761
+    "order": 766
   },
   {
     "id": 1775,
@@ -146,7 +146,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Picnic_Basket"
     },
-    "order": 740
+    "order": 745
   },
   {
     "id": 2075,
@@ -155,7 +155,7 @@
     "name": "Bloom Lilypad Umbrella",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Bloom-Lilypad-Umbrella-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Bloom-Lilypad-Umbrella-held.png",
-    "order": 647,
+    "order": 651,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Lilypad_Umbrella"
     }
@@ -167,7 +167,7 @@
     "name": "Bloom Arum Petal Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Bloom-Arum-Petal-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Bloom-Arum-Petal-Cape-back.png",
-    "order": 1007,
+    "order": 1017,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Arum_Petal_Cape"
     }
@@ -179,7 +179,7 @@
     "name": "Bloom Arum Petal Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Bloom-Arum-Petal-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Bloom-Arum-Petal-Hair-front.png",
-    "order": 306,
+    "order": 308,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Arum_Petal_Hair"
     }
@@ -191,7 +191,7 @@
     "name": "Bloom Spiky Sprig Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Bloom-Spiky-Sprig-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/56/Bloom-Spiky-Sprig-Hair-front.png",
-    "order": 307,
+    "order": 309,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Spiky_Sprig_Hair"
     }
@@ -237,7 +237,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Bloom_rosecape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Bloom_rosecape.jpg"
     },
-    "order": 1008,
+    "order": 1018,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose-Embroidered_Cape"
     }
@@ -255,7 +255,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Bloom_rosemask.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Bloom_rosemask.jpg"
     },
-    "order": 537,
+    "order": 541,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Petal_Mask"
     }
@@ -267,7 +267,7 @@
     "name": "Bloom Rose Jar Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Bloom-Rose-Jar-prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Bloom-Rose-Jar-prop.png",
-    "order": 881,
+    "order": 886,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Jar_Prop"
     }
@@ -285,70 +285,82 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Bloom_rosebraid.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Bloom_rosebraid.jpg"
     },
-    "order": 308,
+    "order": 310,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Braided_Hair"
     }
   },
-  { 
+  {
     "id": 3048,
-    "guid": "4BV-8GfVBR", 
-    "name": "Bloom Green Tunic", 
-    "type": "Outfit", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Bloom-Sunflower-Green-Tunic-Outfit-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Bloom-Sunflower-Green-Tunic-Outfit-front.png", 
+    "guid": "4BV-8GfVBR",
+    "name": "Bloom Green Tunic",
+    "type": "Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Bloom-Sunflower-Green-Tunic-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Bloom-Sunflower-Green-Tunic-Outfit-front.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Green_Tunic_Body" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Green_Tunic_Body"
+    },
+    "order": 80
   },
-  { 
+  {
     "id": 3049,
-    "guid": "1XyFlfFPPJ", 
-    "name": "Sunflower Bandana Hair", 
-    "type": "Hair", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Bloom-Sunflower-Bandana-Hair-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Bloom-Sunflower-Bandana-Hair-side.png", 
+    "guid": "1XyFlfFPPJ",
+    "name": "Sunflower Bandana Hair",
+    "type": "Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Bloom-Sunflower-Bandana-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Bloom-Sunflower-Bandana-Hair-side.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Sunflower_Bandana_Hair" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Sunflower_Bandana_Hair"
+    },
+    "order": 311
   },
-  { 
+  {
     "id": 3050,
-    "guid": "7wvN3itGoK", 
-    "name": "Bloom Sunflower Cape", 
-    "type": "Cape", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Bloom-Sunflower-Cape-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Bloom-Sunflower-Cape-front.png", 
+    "guid": "7wvN3itGoK",
+    "name": "Bloom Sunflower Cape",
+    "type": "Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Bloom-Sunflower-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Bloom-Sunflower-Cape-front.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Sunflower_Cape" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Sunflower_Cape"
+    },
+    "order": 1019
   },
-  { 
+  {
     "id": 3051,
-    "guid": "jcCb_Tc5ms", 
-    "name": "Bloom Sunflower Sundress", 
-    "type": "Outfit", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Bloom-Sunflower-Sundress-Outfit-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Bloom-Sunflower-Sundress-Outfit-front.png", 
+    "guid": "jcCb_Tc5ms",
+    "name": "Bloom Sunflower Sundress",
+    "type": "Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Bloom-Sunflower-Sundress-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Bloom-Sunflower-Sundress-Outfit-front.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Sundress" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Sundress"
+    },
+    "order": 79
   },
-  { 
+  {
     "id": 3052,
-    "guid": "IP1yVVhLdv", 
-    "name": "Bloom Sunflower Umbrella", 
-    "type": "Held", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3b/Bloom-Sunflower-Umbrella-Prop-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7c/Bloom-Sunflower-Umbrella-Prop-using.png", 
+    "guid": "IP1yVVhLdv",
+    "name": "Bloom Sunflower Umbrella",
+    "type": "Held",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3b/Bloom-Sunflower-Umbrella-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7c/Bloom-Sunflower-Umbrella-Prop-using.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Umbrella" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Umbrella"
+    },
+    "order": 652
   },
-  { 
+  {
     "id": 3053,
-    "guid": "hnBe3t5FFZ", 
-    "name": "Bloom Sunflower Studs", 
-    "type": "HeadAccessory", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Bloom-Sunflower-Stud-Earrings-Head-Accessory-icon.png", 
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Bloom-Sunflower-Stud-Earrings-Head-Accessory-front.png", 
+    "guid": "hnBe3t5FFZ",
+    "name": "Bloom Sunflower Studs",
+    "type": "HeadAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Bloom-Sunflower-Stud-Earrings-Head-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Bloom-Sunflower-Stud-Earrings-Head-Accessory-front.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Studs" }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Studs"
+    },
+    "order": 436
   },
   {
     "id": 3054,
@@ -366,7 +378,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Bloom-Sunflower-Rug-Half-Circle-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Rug"
-    }
+    },
+    "order": 890
   },
   {
     "id": 3056,
@@ -377,7 +390,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Bloom-Sunflower-Ladder-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Ladder"
-    }
+    },
+    "order": 888
   },
   {
     "id": 3057,
@@ -388,7 +402,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/53/Bloom-Sunflower-Round-Table-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Round_Table"
-    }
+    },
+    "order": 887
   },
   {
     "id": 3058,
@@ -399,7 +414,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Bloom-Sunflower-Wall-Shelf-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Wall_Shelf"
-    }
+    },
+    "order": 891
   },
   {
     "id": 3059,
@@ -410,6 +426,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/Bloom-Sunflower-Pillow-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Small_Pillow"
-    }
+    },
+    "order": 889
   }
 ]
