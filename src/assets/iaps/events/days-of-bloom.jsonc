@@ -205,4 +205,86 @@
     ]
   },
   // #endregion
+  // #region Days of Bloom (2026)
+  {
+    "guid": "BclM9yFwwU",
+    "name": "Bloom Sunflower Umbrella",
+    "price": 14.99,
+    "items": [
+      "IP1yVVhLdv"
+    ]
+  },
+  {
+    "guid": "4VDoffvE1l",
+    "name": "Bloom Sunflower Sundress",
+    "price": 9.99,
+    "items": [
+      "jcCb_Tc5ms"
+    ]
+  },
+  {
+    "guid": "m-AzDMT-0k",
+    "name": "Bloom Sunflower Studs",
+    "price": 2.99,
+    "items": [
+      "hnBe3t5FFZ"
+    ]
+  },
+  {
+    "guid": "mzbZeWJSV_",
+    "name": "Bloom Rose-Embroidered Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "5F_G_puJb7"
+    ]
+  },
+  {
+    "guid": "azQfFhLDmo",
+    "name": "Bloom Lilypad Umbrella",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "kLfBsnAsUL"
+    ]
+  },
+  {
+    "guid": "VmxTS7RGKq",
+    "name": "Pink Bloom Teaset",
+    "price": 19.99,
+    "returning": true,
+    "c": 35,
+    "items": [
+      "sTIyha_lg1"
+    ]
+  },
+  {
+    "guid": "NHRjiE9FOf",
+    "name": "Purple Bloom Teaset",
+    "price": 19.99,
+    "returning": true,
+    "c": 35,
+    "items": [
+      "l6GE013zrh"
+    ]
+  },
+  {
+    "guid": "FGKkzX0pgN",
+    "name": "Bloom Picnic Basket",
+    "price": 19.99,
+    "returning": true,
+    "sp": 1,
+    "items": [
+      "_0PZEyTNxt"
+    ]
+  },
+  {
+    "guid": "8BEhmbCn0q",
+    "name": "Bloom Gardening Tunic",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "wUPw1TRQSI"
+    ]
+  }
 ]

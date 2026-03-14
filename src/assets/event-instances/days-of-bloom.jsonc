@@ -57,5 +57,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Bloom-Sky-x-Le-Petit-Prince-Encore-1ba8261c87dd806b93e9fe0851b3d13f"
     }
+  },
+  {
+    "guid": "GvpCsJFSNW",
+    "date": "2026-03-13",
+    "endDate": "2026-04-02",
+    "spirits": ["pDhJzwjbYD"],
+    "shops": ["JQbK7Uh7V7", "9MdwwwuJLP", "rqP9QFOrjd"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "tbFPT1BJv1",
+          "date": "2026-03-13",
+          "endDate": "2026-04-02",
+          "amount": 15,
+          "description": ""
+        }
+      ]
+    },
+    "_calendar": {
+      "href": ""
+    }
   }
 ]

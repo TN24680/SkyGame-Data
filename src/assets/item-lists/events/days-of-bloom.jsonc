@@ -3,5 +3,24 @@
   {
     "guid": "VAL3W30ClZ",
     "items": [{ "guid": "QSxhXLPZkQ", "item": "l_C7GM60an", "c": 200 }]
+  },
+  // 2026
+  {
+    "guid": "exDBz34fRh",
+    "items": [
+      { "guid": "DYnyDiEYaI", "item": "52k7f6EGsr", "c": 26 },
+      { "guid": "VCmvBuF3f-", "item": "4njZaYzaMO", "c": 28 },
+      { "guid": "xDFkJOaPWy", "item": "RRc44lq7an", "c": 15 },
+      { "guid": "25J_Z9_VH3", "item": "YbRLPKPSPu", "h": 8 },
+      { "guid": "LWe91lCCE0", "item": "odOqo2yi2M", "c": 18 },
+      { "guid": "Cvcvs8xjoo", "item": "nkJXDrn2cV", "h": 25 },
+      { "guid": "6DdBHqfZ9v", "item": "MgQqIuTSuC", "c": 118 },
+      { "guid": "odRpQSkfP_", "item": "YTBtAMps8R", "c": 110 },
+      { "guid": "s5lYa7C6jp", "item": "LRLEa6LYVP", "c": 80 },
+      { "guid": "Sg6HCxWYKY", "item": "89R9XC2DIg", "c": 105 },
+      { "guid": "FRUSEVS9lP", "item": "uKLD12UrPr", "h": 20 },
+      { "guid": "zonn4EVW0-", "item": "wFSLA6un_V", "c": 70 },
+      { "guid": "SseZIZlRqM", "item": "vxfZZiaabO", "c": 24 }
+    ]
   }
 ]

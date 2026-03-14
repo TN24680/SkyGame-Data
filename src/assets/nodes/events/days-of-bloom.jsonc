@@ -190,6 +190,17 @@
   { "guid": "2V_1ei3fVJ", "item": "uKLD12UrPr", "h": 20 },
   { "guid": "6pHrpuiOsK", "item": "yJBxs4D0QI", "nw": "AoM-5IyQYD", "n": "7lXnH1zlhg", "c": 5 },
   { "guid": "AoM-5IyQYD", "item": "86YUJaG1uM", "ec": 10 },
-  { "guid": "7lXnH1zlhg", "item": "wFSLA6un_V", "c": 70 }
+  { "guid": "7lXnH1zlhg", "item": "wFSLA6un_V", "c": 70 },
+  // #endregion
+  // #region Days of Bloom (2026)
+  { "guid": "eQYkfedaTG", "item": "I3mcpyU4uj", "nw": "ymQCEbQTJM", "n": "ODDCeZyj4u", "ne": "vBysVJVJOX" },
+  { "guid": "ymQCEbQTJM", "item": "4BV-8GfVBR", "ec": 26 },
+  { "guid": "vBysVJVJOX", "item": "1XyFlfFPPJ", "ec": 18 },
+  { "guid": "ODDCeZyj4u", "item": "WMaNVcyuGD", "c": 5, "nw": "NP8bPVD2fC", "n": "yy311TOr2z", "ne": "XWx2R-u2i4" },
+  { "guid": "NP8bPVD2fC", "item": "7wvN3itGoK", "ec": 30 },
+  { "guid": "XWx2R-u2i4", "item": "rFyanmj7uL", "c": 32 },
+  { "guid": "yy311TOr2z", "item": "MzWv4Qp2S7", "c": 5, "nw": "GUu4gusCAM", "n": "Ea23ALjnm_" },
+  { "guid": "GUu4gusCAM", "item": "gSmFBHmzx7", "c": 38 },
+  { "guid": "Ea23ALjnm_", "item": "Rrhk8jKU4u", "c": 48 }
   // #endregion
 ]

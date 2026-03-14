@@ -15,7 +15,7 @@
     "id": 1765,
     "guid": "uKLD12UrPr",
     "type": "Hair",
-    "name": "Bloom Hair",
+    "name": "Pink Bloom Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Icon_hair_bloom.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Days_of_blossom_2021_hair_v2.png",
     "_wiki": {
@@ -288,6 +288,128 @@
     "order": 308,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Braided_Hair"
+    }
+  },
+  { 
+    "id": 3048,
+    "guid": "4BV-8GfVBR", 
+    "name": "Bloom Green Tunic", 
+    "type": "Outfit", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Bloom-Sunflower-Green-Tunic-Outfit-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Bloom-Sunflower-Green-Tunic-Outfit-front.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Green_Tunic_Body" }
+  },
+  { 
+    "id": 3049,
+    "guid": "1XyFlfFPPJ", 
+    "name": "Sunflower Bandana Hair", 
+    "type": "Hair", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Bloom-Sunflower-Bandana-Hair-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Bloom-Sunflower-Bandana-Hair-side.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Sunflower_Bandana_Hair" }
+  },
+  { 
+    "id": 3050,
+    "guid": "7wvN3itGoK", 
+    "name": "Bloom Sunflower Cape", 
+    "type": "Cape", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Bloom-Sunflower-Cape-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Bloom-Sunflower-Cape-front.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Sunflower_Cape" }
+  },
+  { 
+    "id": 3051,
+    "guid": "jcCb_Tc5ms", 
+    "name": "Bloom Sunflower Sundress", 
+    "type": "Outfit", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Bloom-Sunflower-Sundress-Outfit-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Bloom-Sunflower-Sundress-Outfit-front.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Sundress" }
+  },
+  { 
+    "id": 3052,
+    "guid": "IP1yVVhLdv", 
+    "name": "Bloom Sunflower Umbrella", 
+    "type": "Held", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3b/Bloom-Sunflower-Umbrella-Prop-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7c/Bloom-Sunflower-Umbrella-Prop-using.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Umbrella" }
+  },
+  { 
+    "id": 3053,
+    "guid": "hnBe3t5FFZ", 
+    "name": "Bloom Sunflower Studs", 
+    "type": "HeadAccessory", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Bloom-Sunflower-Stud-Earrings-Head-Accessory-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Bloom-Sunflower-Stud-Earrings-Head-Accessory-front.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Studs" }
+  },
+  {
+    "id": 3054,
+    "guid": "I3mcpyU4uj",
+    "type": "Special",
+    "name": "Cutscene",
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
+  },
+  {
+    "id": 3055,
+    "guid": "YbRLPKPSPu",
+    "type": "Prop",
+    "name": "Sunflower Rug",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Bloom-Sunflower-Rug-Half-Circle-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Bloom-Sunflower-Rug-Half-Circle-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Rug"
+    }
+  },
+  {
+    "id": 3056,
+    "guid": "4njZaYzaMO",
+    "type": "Prop",
+    "name": "Sunflower Ladder",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Bloom-Sunflower-Ladder-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Bloom-Sunflower-Ladder-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Ladder"
+    }
+  },
+  {
+    "id": 3057,
+    "guid": "52k7f6EGsr",
+    "type": "Prop",
+    "name": "Sunflower Round Table",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Bloom-Sunflower-Round-Table-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/53/Bloom-Sunflower-Round-Table-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Round_Table"
+    }
+  },
+  {
+    "id": 3058,
+    "guid": "odOqo2yi2M",
+    "type": "Prop",
+    "name": "Sunflower Wall Shelf",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2d/Bloom-Sunflower-Wall-Shelf-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Bloom-Sunflower-Wall-Shelf-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Wall_Shelf"
+    }
+  },
+  {
+    "id": 3059,
+    "guid": "RRc44lq7an",
+    "type": "Prop",
+    "name": "Sunflower Small Pillow",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Bloom-Sunflower-Pillow-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/Bloom-Sunflower-Pillow-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Small_Pillow"
     }
   }
 ]

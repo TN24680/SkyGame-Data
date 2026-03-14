@@ -55,6 +55,12 @@
     "type": "Event",
     "name": "Days of Bloom Guide"
   },
+  {
+    "guid": "pDhJzwjbYD",
+    "type": "Event",
+    "name": "Bloom Guide",  //2026
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7b/Bloom-Sunflower-Guide.png"
+  },
   // Days of Nature
   {
     "guid": "3M1KSVgf49",

@@ -74,6 +74,24 @@
     "type": "Object",
     "name": "Little Prince Mannequin",
     "iaps": ["XAH6R5Ub1W", "ffn9SevEDg", "ILNCp5exZ-"]
-  }
+  },
   // #endregion
+  // #region Days of Bloom (2026)
+  {
+    "guid": "JQbK7Uh7V7",
+    "type": "Store",
+    "iaps": ["BclM9yFwwU", "4VDoffvE1l", "m-AzDMT-0k"]
+  },
+  {
+    "guid": "9MdwwwuJLP",
+    "type": "Object",
+    "name": "Days of Bloom Crate",
+    "itemList": "exDBz34fRh"
+  },
+  {
+    "guid": "rqP9QFOrjd",
+    "type": "Object",
+    "name": "Sunflower Bloom Mannequin",
+    "iaps": ["mzbZeWJSV_", "azQfFhLDmo", "VmxTS7RGKq", "NHRjiE9FOf", "FGKkzX0pgN", "8BEhmbCn0q"]
+  }
 ]
