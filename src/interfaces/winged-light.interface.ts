@@ -4,6 +4,7 @@ import type { IMapData } from './map-data.interface.js';
 import type { IWiki } from './wiki.interface.js';
 
 export interface IWingedLight extends IGuid {
+  order: number;
   name?: string;
   description?: string;
   mapData?: IMapData;

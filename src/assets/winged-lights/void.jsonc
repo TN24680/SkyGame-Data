@@ -2,6 +2,7 @@
   // #region Void Shard
   {
     "guid": "ONPX94C2vq",
+    "order": 8001,
     "description": "Up above in the Jellyfish memory.",
     "mapData": { "position": [-127.25, 196.25] },
     "_wiki": {
@@ -10,6 +11,7 @@
   },
   {
     "guid": "VQXUW28_aU",
+    "order": 8002,
     "description": "Up above in the Crab memory.",
     "mapData": { "position": [-124.38, 198.13] },
     "_wiki": {
@@ -18,6 +20,7 @@
   },
   {
     "guid": "lI5ByPVjjf",
+    "order": 8003,
     "description": "Up above in the Manta memory.",
     "mapData": { "position": [-127.25, 200] },
     "_wiki": {
@@ -26,6 +29,7 @@
   },
   {
     "guid": "GXM5vGN1Px",
+    "order": 8004,
     "description": "On the ground in the Krill memory.",
     "mapData": { "position": [-131.5, 196.25] },
     "_wiki": {
@@ -34,6 +38,7 @@
   },
   {
     "guid": "L79hQ4XPwg",
+    "order": 8005,
     "description": "Near the eye of the closest whale in the Whale memory.",
     "mapData": { "position": [-134.38, 198.13], "videoUrl": "Void/Whale.mp4" },
     "_wiki": {
@@ -42,6 +47,7 @@
   },
   {
     "guid": "3_zUodfrew",
+    "order": 8006,
     "description": "At the top of the shard in the Elders memory.",
     "mapData": { "position": [-131.5, 200], "videoUrl": "Void/Elders.mp4" },
     "_wiki": {

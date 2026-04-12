@@ -3,6 +3,7 @@
   // Social Space
   {
     "guid": "r9CmlnAmRm",
+    "order": 6001,
     "description": "On a ladder to the left in the opening area of the Vault.",
     "mapData": { "position": [-233.75, 367], "videoUrl": "Vault/1.mp4" },
     "_wiki": {
@@ -12,6 +13,7 @@
   // Starlight Desert
   {
     "guid": "Qz-2auzQan",
+    "order": 6002,
     "description": "On top of the jar to the right of the Starlight Desert.",
     "mapData": { "position": [-197.25, 447.88], "videoUrl": "Vault/3.mp4" },
     "_wiki": {
@@ -20,6 +22,7 @@
   },
   {
     "guid": "DFxZJcPENY",
+    "order": 6003,
     "description": "On top of the lighthouse to the left of the Starlight Desert.",
     "mapData": { "position": [-199.38, 432.88], "videoUrl": "Vault/2.mp4" },
     "_wiki": {
@@ -28,6 +31,7 @@
   },
   {
     "guid": "r_r5vLWj-6",
+    "order": 6004,
     "description": "On the bottom floor of the king's island in the Starlight Desert.",
     "mapData": { "position": [-189.88, 435.25], "videoUrl": "Vault/4.mp4" },
     "_wiki": {
@@ -37,6 +41,7 @@
   // Crescent Oasis
   {
     "guid": "ZDqubWevQx",
+    "order": 6005,
     "description": "On the other side of the Mural wall in the Crescent Oasis.",
     "mapData": { "position": [-181, 405.88], "videoUrl": "Vault/13.mp4" },
     "_wiki": {
@@ -45,6 +50,7 @@
   },
   {
     "guid": "HdrkYqqX3_",
+    "order": 6006,
     "description": "Under the large tree in the Crescent Oasis.",
     "mapData": { "position": [-176.63, 404.63], "videoUrl": "Vault/15.mp4" },
     "_wiki": {
@@ -53,6 +59,7 @@
   },
   {
     "guid": "fWLJNq1H3v",
+    "order": 6007,
     "description": "Behind the peak of the main building in the Crescent Oasis.",
     "mapData": { "position": [-172.63, 411], "videoUrl": "Vault/14.mp4" },
     "_wiki": {
@@ -62,6 +69,7 @@
   // Moominvalley
   {
     "guid": "bqAgpNc9km",
+    "order": 6008,
     "description": "In the distant gazebo in Moominvalley. Requires completion of the quests.",
     "mapData": { "position": [-148.69, 422.5], "videoUrl": "Vault/16.mp4" },
     "_wiki": {
@@ -71,6 +79,7 @@
   // Archives
   {
     "guid": "W9fiK8mWQK",
+    "order": 6009,
     "description": "At the first junction of the Archives, to the left behind some jars.",
     "mapData": { "position": [-233.25, 389.25], "videoUrl": "Vault/5.mp4" },
     "_wiki": {
@@ -79,6 +88,7 @@
   },
   {
     "guid": "4uUGCJEgq3",
+    "order": 6010,
     "description": "Up a ladder near the end of the Archives.",
     "mapData": { "position": [-233.25, 392], "videoUrl": "Vault/6.mp4" },
     "_wiki": {
@@ -88,6 +98,7 @@
   // Repository of Refuge
   {
     "guid": "_RSC0jqGCh",
+    "order": 6011,
     "description": "In a locked cell on the outside of the main building in the Repository of Refuge.",
     "mapData": { "position": [-240.25, 336.75], "videoUrl": "Vault/7.mp4" },
     "_wiki": {
@@ -97,6 +108,7 @@
   // Third Floor
   {
     "guid": "Hn7mU7ktxt",
+    "order": 6012,
     "description": "On top of the gazebo on the Third Floor of the Vault.",
     "mapData": { "position": [-204.88, 357.63], "videoUrl": "Vault/8.mp4" },
     "_wiki": {
@@ -106,6 +118,7 @@
   // Fourth Floor
   {
     "guid": "Zzvpdwh0wl",
+    "order": 6013,
     "description": "In a small roofed building on the Fourth Floor of the Vault.",
     "mapData": { "position": [-195.88, 346.5], "videoUrl": "Vault/9.mp4" },
     "_wiki": {
@@ -114,6 +127,7 @@
   },
   {
     "guid": "I-vGwH81iB",
+    "order": 6014,
     "description": "At the highest point of the Fourth Floor of the Vault, surrounded by small pillars.",
     "mapData": { "position": [-193.88, 349.75], "videoUrl": "Vault/10.mp4" },
     "_wiki": {
@@ -123,6 +137,7 @@
   // Fifth Floor
   {
     "guid": "vP7uVXrDUu",
+    "order": 6015,
     "description": "On top of one of the floating bones at the Fifth Floor of the Vault.",
     "mapData": { "position": [-191.88, 325], "videoUrl": "Vault/11.mp4" },
     "_wiki": {
@@ -132,6 +147,7 @@
   // Summit
   {
     "guid": "uiNKKn25L-",
+    "order": 6016,
     "description": "In front of the Vault Temple shrine at the Summit.",
     "mapData": { "position": [-180.75, 328.13], "videoUrl": "Vault/12.mp4" },
     "_wiki": {
