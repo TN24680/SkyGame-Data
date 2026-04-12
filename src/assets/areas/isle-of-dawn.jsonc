@@ -1,7 +1,7 @@
 [
   {
     "guid": "oEnKoTrbCt",
-    "name": "Passage Stone",
+    "name": "Passage Rock",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/dunes-720.webp",
     "spirits": [
       "0yGgX4Yk3c",
@@ -21,7 +21,7 @@
   },
   {
     "guid": "MBcbvhRFfz",
-    "name": "Ancient Dock",
+    "name": "Dawn Circle",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/ancient-dock-720.webp",
     "spirits": [
       "qSs575DZ6P",
@@ -38,7 +38,7 @@
   },
   {
     "guid": "LanOVr1JCo",
-    "name": "Dawn Temple Entrance",
+    "name": "Temple of the Isle Entrance",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-entrance-720.webp",
     "spirits": ["bmYjIuJ6Qf", "Q5pn7wxwUD"],
     "mapData": { "position": [-416.13, 299.25] },
@@ -50,7 +50,7 @@
   },
   {
     "guid": "6MuptjUV8B",
-    "name": "Dawn Temple",
+    "name": "Temple of the Isle",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-720.webp",
     "mapShrines": ["gZHTmFJ0_S"],
     "mapData": { "position": [-398.13, 305.5] },
@@ -58,7 +58,7 @@
   },
   {
     "guid": "hDN-ciwGc-",
-    "name": "Floating Island",
+    "name": "Dawn Overlook",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/island-720.webp",
     "spirits": ["f3AD39Q2Il"],
     "mapShrines": ["s-TcDLSu2E"],

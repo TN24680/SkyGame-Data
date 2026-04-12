@@ -1,7 +1,7 @@
 [
   {
     "guid": "Cmo9TPPpyH",
-    "name": "Prairie Gateway",
+    "name": "Prairie Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/social-720.webp",
     "wingedLights": ["fl1Z3bEx81"],
     "mapShrines": ["UZU8IWRFTQ"],
@@ -60,7 +60,7 @@
   },
   {
     "guid": "LdFAYVlCli",
-    "name": "Prairie Temple",
+    "name": "Temple of the Prairie",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/temple-720.webp",
     "mapData": { "position": [-372.75, 155.25] },
     "connections": [{ "area": "JrcYJTvEhh" }, { "area": "A2--yR5CJk" }]

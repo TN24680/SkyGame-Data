@@ -1,10 +1,10 @@
 [
   // #region Wasteland
-  // Broken Temple
+  // The Outer Bailey
   {
     "guid": "M_ouc0fx7z",
     "order": 5001,
-    "description": "On the beach in front of where you land at the Broken Temple.",
+    "description": "On the beach in front of where you land at the The Outer Bailey.",
     "mapData": { "position": [-331.63, 369.5], "videoUrl": "Wasteland/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Broken_Temple"
@@ -13,7 +13,7 @@
   {
     "guid": "-jaWbsOO-B",
     "order": 5002,
-    "description": "On the pillars above where you land at the Broken Temple.",
+    "description": "On the pillars above where you land at the The Outer Bailey.",
     "mapData": { "position": [-332.75, 374.63], "videoUrl": "Wasteland/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Broken_Temple"

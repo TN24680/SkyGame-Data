@@ -118,7 +118,7 @@
   {
     "guid": "vz0IBqoGta",
     "order": 2013,
-    "description": "Directly above the Prairie Temple entrance.",
+    "description": "Directly above the Temple of the Prairie entrance.",
     "mapData": { "position": [-378, 152.5], "videoUrl": "Prairie/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Temple"
@@ -127,7 +127,7 @@
   {
     "guid": "RPvwKSjUXE",
     "order": 2014,
-    "description": "On top of the Prairie Temple.",
+    "description": "On top of the Temple of the Prairie.",
     "mapData": { "position": [-371.38, 156.38], "videoUrl": "Prairie/11.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Temple"

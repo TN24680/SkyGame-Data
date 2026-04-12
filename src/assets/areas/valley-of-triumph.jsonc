@@ -1,7 +1,7 @@
 [
   {
     "guid": "LUkrOYNjEy",
-    "name": "Valley Gateway",
+    "name": "Valley Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/social-720.webp",
     "mapShrines": ["-R9H4i_Jz3"],
     "mapData": { "position": [-257.13, 189.63] },
@@ -78,7 +78,7 @@
   },
   {
     "guid": "L1O2yEHfvX",
-    "name": "Valley Temple",
+    "name": "Temple of the Valley",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/temple-720.webp",
     "spirits": ["CcOE42N9Mc"],
     "wingedLights": ["E-f38yRTaj"],

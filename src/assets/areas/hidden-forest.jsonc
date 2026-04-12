@@ -1,7 +1,7 @@
 [
   {
     "guid": "A2--yR5CJk",
-    "name": "Forest Gateway",
+    "name": "Forest Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/social-720.webp",
     "mapShrines": ["AKRMG2oyjD"],
     "mapData": { "position": [-373.5, 120.5] },
@@ -126,7 +126,7 @@
   },
   {
     "guid": "-y0hYE5huj",
-    "name": "Forest Temple",
+    "name": "Temple of the Forest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/temple-720.webp",
     "mapShrines": ["doMFpBkpt9"],
     "mapData": { "position": [-284, 134.25] },

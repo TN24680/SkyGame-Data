@@ -1,5 +1,4 @@
 [
-  // #region Wasteland
   {
     "guid": "EaNImb7KpI",
     "description": "",
@@ -47,6 +46,11 @@
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Treasure-Reef-map-shrine.webp",
     "mapData": { "position": [-366.56, 411.56] }
+  },
+  {
+    "guid": "JzCzw4xQBl",
+    "description": "",
+    "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-The-Two-Embers-City-Map-Shrine.webp",
+    "mapData": { "position": [-250, 420] }
   }
-  // #endregion
 ]

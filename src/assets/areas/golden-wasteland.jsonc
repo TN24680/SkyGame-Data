@@ -1,7 +1,7 @@
 [
   {
     "guid": "R4I-lYbUUO",
-    "name": "Wasteland Gateway",
+    "name": "Wasteland Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/social-720.webp",
     "mapShrines": ["EaNImb7KpI"],
     "mapData": { "position": [-283, 339.25] },
@@ -29,7 +29,7 @@
   },
   {
     "guid": "4Vw0MHl11q",
-    "name": "Broken Temple",
+    "name": "The Outer Bailey",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/broken-720.webp",
     "spirits": ["TqswdiTmEC", "k8nqBtLJ0R"],
     "wingedLights": ["M_ouc0fx7z", "-jaWbsOO-B"],
@@ -39,7 +39,7 @@
   },
   {
     "guid": "CCmW2Ad_v_",
-    "name": "Graveyard",
+    "name": "The Graveyard",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/graveyard-720.webp",
     "spirits": [
       "_4VyRWxD3V",
@@ -141,7 +141,10 @@
   {
     "guid": "pZbxK8tM_J",
     "name": "The Last City",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/lost-city-720.webp",
     "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ"],
+    "mapShrines": ["JzCzw4xQBl"],
+    "mapData": { "position": [-250, 415] },
     "connections": [{ "area": "mT6bVNovBW" }]
   }
 ]

@@ -10,17 +10,17 @@
       { "area": "schNrmq0ID" },
       { "area": "HbKvg_BOyc" },
       { "area": "wKZdWMMIWa" },
-      { "area": "pZbxK8tM_J" }
-    ]
+      { "area": "pZbxK8tM_J" },
+    ],
   },
   {
     "guid": "wKZdWMMIWa",
-    "name": "Lower Vault",
+    "name": "Vault Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/elevator-720.webp",
     "spirits": ["_8CvQjUnQg", "CH6e-TQz6n"],
     "mapShrines": ["Mt6uDBigUP"],
     "mapData": { "position": [-227.38, 366.88] },
-    "connections": [{ "area": "XG3_0khlw9" }, { "area": "KLweYQTEIp" }]
+    "connections": [{ "area": "XG3_0khlw9" }, { "area": "DfBQowH4AN" }, { "area": "KLweYQTEIp" }],
   },
   {
     "guid": "KLweYQTEIp",
@@ -28,17 +28,17 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/second-720.webp",
     "spirits": ["Im7m8syitV"],
     "mapData": { "position": [-221, 366.88] },
-    "connections": [{ "area": "-xkmkbpRyN" }]
+    "connections": [{ "area": "-xkmkbpRyN" }],
   },
   {
     "guid": "-xkmkbpRyN",
-    "name": "Middle Vault",
+    "name": "Lower Vault",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/third-720.webp",
     "spirits": ["1OGD_H3a7X"],
     "wingedLights": ["Hn7mU7ktxt"],
     "mapShrines": ["9TfCpBgmXW"],
     "mapData": { "position": [-210.5, 358.75] },
-    "connections": [{ "area": "BxTngnB1PV" }]
+    "connections": [{ "area": "BxTngnB1PV" }],
   },
   {
     "guid": "BxTngnB1PV",
@@ -48,7 +48,7 @@
     "wingedLights": ["Zzvpdwh0wl", "I-vGwH81iB"],
     "mapShrines": ["oxZXdByjCg"],
     "mapData": { "position": [-194.88, 346.88] },
-    "connections": [{ "area": "Zx40zFvrqG" }]
+    "connections": [{ "area": "Zx40zFvrqG" }],
   },
   {
     "guid": "Zx40zFvrqG",
@@ -56,26 +56,26 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/fifth-720.webp",
     "wingedLights": ["vP7uVXrDUu"],
     "mapData": { "position": [-185.5, 346.88] },
-    "connections": [{ "area": "ZiqYHd176H" }]
+    "connections": [{ "area": "ZiqYHd176H" }],
   },
   {
     "guid": "ZiqYHd176H",
-    "name": "Vault Temple",
+    "name": "Temple of the Vault",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/summit-720.webp",
     "wingedLights": ["uiNKKn25L-"],
     "mapShrines": ["4jtpTFZ39o"],
     "mapData": { "position": [-179.25, 327.88] },
-    "connections": [{ "area": "vWlW190-P1" }]
+    "connections": [{ "area": "vWlW190-P1" }],
   },
   {
     "guid": "HbKvg_BOyc",
-    "name": "The Archive",
+    "name": "Vault Archive",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/archive-720.webp",
     "spirits": ["7EzWoLR1w4"],
     "wingedLights": ["W9fiK8mWQK", "4uUGCJEgq3"],
     "mapShrines": ["ioChKfj63j"],
     "mapData": { "position": [-232.5, 390.5] },
-    "connections": [{ "area": "QM7Kuv1Ekg" }]
+    "connections": [{ "area": "QM7Kuv1Ekg" }],
   },
   {
     "guid": "wrHKGEg2Kc",
@@ -90,8 +90,8 @@
       { "area": "aBL5eqTv4R" },
       { "area": "wOM-k6pjot" },
       { "area": "Mhbh0g9OdG" },
-      { "area": "mT6bVNovBW" }
-    ]
+      { "area": "mT6bVNovBW" },
+    ],
   },
   {
     "guid": "IrChmrOevd",
@@ -102,7 +102,7 @@
       "JOCCkr0TlW",
       "V7gj-cBqK1",
       "z5dtSO-gis",
-      "l7zP8zUFHX"
+      "l7zP8zUFHX",
     ],
     "wingedLights": ["DFxZJcPENY", "Qz-2auzQan", "r_r5vLWj-6"],
     "mapShrines": ["AwpiTWfg3K"],
@@ -111,8 +111,8 @@
       { "area": "wrHKGEg2Kc" },
       { "area": "TenYOMK1pK" },
       { "area": "S3Zd-sgxHw" },
-      { "area": "p3vJrJBcfy" }
-    ]
+      { "area": "p3vJrJBcfy" },
+    ],
   },
   {
     "guid": "TenYOMK1pK",
@@ -120,7 +120,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jar-720.webp",
     "spirits": ["iweb5Sk2Xk"],
     "mapData": { "position": [-196.75, 448.5] },
-    "connections": [{ "area": "IrChmrOevd" }]
+    "connections": [{ "area": "IrChmrOevd" }],
   },
   {
     "guid": "S3Zd-sgxHw",
@@ -128,19 +128,19 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jellyfish-720.webp",
     "spirits": ["dEQ1GVQOx7"],
     "mapData": { "position": [-193.25, 428.75] },
-    "connections": [{ "area": "IrChmrOevd" }]
+    "connections": [{ "area": "IrChmrOevd" }],
   },
   {
     "guid": "p3vJrJBcfy",
     "name": "Starlight Dunes",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dunes-720.webp",
     "mapData": { "position": [-191, 455.5] },
-    "connections": [{ "area": "IrChmrOevd" }]
+    "connections": [{ "area": "IrChmrOevd" }],
   },
   {
     "guid": "4FfXQeSNni",
     "name": "Dreams of a Little Friend",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dreams-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dreams-720.webp",
   },
   {
     "guid": "schNrmq0ID",
@@ -154,20 +154,20 @@
       "bQCZEuAuZe",
       "MKdRGA66hC",
       "HmibyU0UEG",
-      "GUwL23XDTb"
+      "GUwL23XDTb",
     ],
     "mapShrines": ["JSPUuuqHRw"],
     "mapData": { "position": [-242.25, 365.06] },
-    "connections": [{ "area": "QM7Kuv1Ekg" }]
+    "connections": [{ "area": "QM7Kuv1Ekg" }],
   },
   {
     "guid": "TyD_dnjqAF",
-    "name": "International Space Station"
+    "name": "International Space Station",
   },
   {
     "guid": "DERcWzmOL7",
     "name": "The Cackling Crab",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/cackling-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/cackling-720.webp",
   },
   {
     "guid": "XG3_0khlw9",
@@ -178,12 +178,12 @@
       "O1olUBrkJ5",
       "V43JRVL_QD",
       "DAG_zfwis5",
-      "zq6qjCsQ_f"
+      "zq6qjCsQ_f",
     ],
     "wingedLights": ["_RSC0jqGCh"],
     "mapShrines": ["l0yhcYX1ll"],
     "mapData": { "position": [-240.63, 342.38] },
-    "connections": [{ "area": "wKZdWMMIWa" }]
+    "connections": [{ "area": "wKZdWMMIWa" }],
   },
   {
     "guid": "aBL5eqTv4R",
@@ -194,16 +194,16 @@
       "gyEBXKOIwY",
       "4h9FByzo7y",
       "wyFKAWN45l",
-      "mf7NyGfeDI"
+      "mf7NyGfeDI",
     ],
     "wingedLights": ["ZDqubWevQx", "HdrkYqqX3_", "fWLJNq1H3v"],
     "mapShrines": ["Jgcu1-kVCL"],
-    "mapData": { "position": [-176.5, 413.38] }
+    "mapData": { "position": [-176.5, 413.38] },
   },
   {
     "guid": "QnPzVZ6PyJ",
     "name": "Hidden Glade (Memory)",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/glade-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/glade-720.webp",
   },
   {
     "guid": "wOM-k6pjot",
@@ -214,23 +214,38 @@
       "9RTxyGCw9v",
       "jt2df_0kso",
       "_ps0VJ53As",
-      "RRsQtrxvRq"
+      "RRsQtrxvRq",
     ],
     "wingedLights": ["bqAgpNc9km"],
     "mapShrines": ["ndvHza3wbp"],
     "mapData": { "position": [-148.69, 422.5] },
-    "connections": [{ "area": "2YCd4ckP6e" }]
+    "connections": [{ "area": "2YCd4ckP6e" }],
+  },
+  {
+    "guid": "DfBQowH4AN",
+    "name": "Fractured Lantern Storage",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/lanterns-720.webp",
+    "spirits": [
+      "XEv6O28-r7",
+      "la4vZslNOy",
+      "haE7sC8lPX",
+      "xbjjYxXUsV",
+      "a4cDauac0X",
+    ],
+    "mapShrines": ["MCbsuqr0_p"],
+    "mapData": { "position": [-222, 348] },
+    "connections": [{ "area": "wKZdWMMIWa" }],
   },
   {
     "guid": "2YCd4ckP6e",
     "name": "Moominvalley",
-    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-720.webp",
   },
   {
     "guid": "mT6bVNovBW",
     "name": "Sky Cinema",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/cinema-temp.webp",
     "spirits": ["gy_EzmMKxF"],
-    "connections": [{ "area": "wrHKGEg2Kc" }, { "area": "pZbxK8tM_J" }]
-  }
+    "connections": [{ "area": "wrHKGEg2Kc" }, { "area": "pZbxK8tM_J" }],
+  },
 ]

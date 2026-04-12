@@ -90,17 +90,17 @@
   {
     "guid": "McAh-VzlJH",
     "order": 4010,
-    "description": "On the shoulder of the statue left of the Valley Temple entrance.",
+    "description": "On the shoulder of the statue left of the Temple of the Valley entrance.",
     "mapData": { "position": [-243.88, 287.13], "videoUrl": "Valley/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Coliseum"
     }
   },
-  // Valley Temple
+  // Temple of the Valley
   {
     "guid": "E-f38yRTaj",
     "order": 4011,
-    "description": "In a room through the upper hole in the left wall inside the Valley Temple.",
+    "description": "In a room through the upper hole in the left wall inside the Temple of the Valley.",
     "mapData": { "position": [-238.88, 291.75], "videoUrl": "Valley/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Valley_Temple"

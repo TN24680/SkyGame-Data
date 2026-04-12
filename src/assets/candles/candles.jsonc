@@ -144,7 +144,7 @@
         ],
       },
       {
-        "name": "Isle Temple",
+        "name": "Temple of the Isle",
         "poly": [
           [2804.0, 888.0],
           [2598.0, 924.0],
@@ -160,7 +160,7 @@
         ],
       },
       {
-        "name": "Floating Island",
+        "name": "Dawn Overlook",
         "poly": [
           [2618.0, 1516.0],
           [2328.0, 1962.0],
@@ -294,7 +294,7 @@
         ],
       },
       {
-        "name": "Prairie Temple",
+        "name": "Temple of the Prairie",
         "poly": [
           [2787.0, 509.0],
           [2791.0, 1125.0],
@@ -569,7 +569,7 @@
         ],
       },
       {
-        "name": "Forest Temple",
+        "name": "Temple of the Forest",
         "poly": [
           [2468.45, 2110],
           [2428.47, 2188],
@@ -821,7 +821,7 @@
         ],
       },
       {
-        "name": "Valley Temple",
+        "name": "Temple of the Valley",
         "poly": [
           [2713, 1455],
           [2713, 2270],
@@ -905,7 +905,7 @@
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [
       {
-        "name": "Broken Temple",
+        "name": "The Outer Bailey",
         "poly": [
           [474.31, 105.92],
           [278.35, 277.88],

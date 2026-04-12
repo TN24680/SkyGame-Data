@@ -6,22 +6,22 @@
     "description": "On top of the mountain at the start of Isle of Dawn.",
     "mapData": { "position": [-462.88, 303.88], "videoUrl": "Isle/1.mp4" },
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Stone"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Rock"
     }
   },
   {
     "guid": "zhBAUiJptT",
     "order": 1002,
-    "description": "On top of a small boat before the Passage Stone.",
+    "description": "On top of a small boat before the Passage Rock.",
     "mapData": { "position": [-459.44, 309.06], "videoUrl": "Isle/2.mp4" },
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Stone"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Rock"
     }
   },
   {
     "guid": "OS7R6fkcT9",
     "order": 1003,
-    "description": "Behind a light gate on the right side of the Passage Stone.",
+    "description": "Behind a light gate on the right side of the Passage Rock.",
     "mapData": { "position": [-448, 315.25], "videoUrl": "Isle/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
