@@ -24,7 +24,10 @@
     "date": "2022-12-19",
     "endDate": "2023-01-08",
     "shops": ["sqzCydXmsy", "2C_rKjKCNo", "zoFI7O9DM0"],
-    "spirits": ["_Kw0vriXyP", "d2BGP3fI-Y", "eXRAJOweQm"]
+    "spirits": ["_Kw0vriXyP", "d2BGP3fI-Y", "eXRAJOweQm"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Feast-2408261c87dd80d7bed3f8ef95bf46f2"
+    }
   },
   {
     "guid": "crmlLYIhMM",

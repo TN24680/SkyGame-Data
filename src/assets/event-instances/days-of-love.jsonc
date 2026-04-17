@@ -17,7 +17,10 @@
     "date": "2022-02-07",
     "endDate": "2022-02-22",
     "shops": ["Qui5cN01A3", "0UnDE-9JQY"],
-    "spirits": ["TpqW3-jpkZ", "Zt2a-8SSJr"]
+    "spirits": ["TpqW3-jpkZ", "Zt2a-8SSJr"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Love-3418261c87dd806aa190fd58f177e30a?pvs=25"
+    }
   },
   {
     "guid": "6398vKUGFN",

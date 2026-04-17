@@ -4,7 +4,10 @@
     "date": "2022-08-22",
     "endDate": "2022-09-11",
     "shops": ["mmxpUMHHS8"],
-    "spirits": ["tDfqpF3f03"]
+    "spirits": ["tDfqpF3f03"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Sunlight-3418261c87dd80ddb45adee51cf643ac?pvs=25"
+    }
   },
   {
     "guid": "bupHF1FUFd",

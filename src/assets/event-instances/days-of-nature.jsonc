@@ -16,7 +16,10 @@
     "date": "2022-04-18",
     "endDate": "2022-05-01",
     "shops": ["HzR1C5d1am", "NNulaStjmr"],
-    "spirits": ["4A_HnQqlA9"]
+    "spirits": ["4A_HnQqlA9"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Nature-3418261c87dd80249cb1c205c699acc1?pvs=25"
+    }
   },
   {
     "guid": "T3MrkNukUj",

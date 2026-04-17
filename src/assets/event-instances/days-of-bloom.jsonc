@@ -11,7 +11,10 @@
     "date": "2022-03-28",
     "endDate": "2022-04-10",
     "shops": ["BtRb90bYtH", "m1hOAdOvnx"],
-    "spirits": ["FwSpcuPQeQ"]
+    "spirits": ["FwSpcuPQeQ"],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Bloom-3418261c87dd80b99c9cf42a0267302c?pvs=25"
+    }
   },
   {
     "guid": "-qKo3_DMbw",
