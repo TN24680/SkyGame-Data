@@ -30,6 +30,10 @@
     "name": "Carnival Ultimate Cape",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Carnival-Ultimate-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Carnival_ultcape.jpg"
+    },
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -78,6 +82,10 @@
     "name": "Carnival Juggler Mask",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Carnival-Juggler-Mask-front.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Carnival_jugglermask.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -127,6 +135,10 @@
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Carnival-Juggler-Neck-Accessory-front.png",
     "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Carnival_jugglerruffle.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -138,6 +150,10 @@
     "name": "Carnival Juggler Outfit",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Carnival-Juggler-Outfit-front.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_jugglerpants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -251,6 +267,10 @@
     "icon": "",
     "group": "SeasonPass",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Carnival-Athletic-Dancer-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Carnival_dancercape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -262,6 +282,10 @@
     "name": "Carnival Athletic Dancer Outfit",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Carnival-Athletic-Dancer-Outfit-front.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_directorpants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -446,6 +470,10 @@
     "name": "Carnival Stunt Actor Cape",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Carnival-Stunt-Actor-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Carnival_stuntcape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
