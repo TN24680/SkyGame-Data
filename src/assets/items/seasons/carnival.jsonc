@@ -123,7 +123,7 @@
     "id": 3079,
     "guid": "EYqeibpIHJ",
     "type": "Necklace",
-    "name": "Carnival Juggler Colar",
+    "name": "Carnival Juggler Neckpiece",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Carnival-Juggler-Neck-Accessory-front.png",
     "group": "SeasonPass",
@@ -159,7 +159,7 @@
     "guid": "__vRcyZcZQ",
     "type": "Special",
     "name": "Black dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Black-dye-container-icon.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Black-dye-container-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -168,7 +168,7 @@
     "type": "Special",
     "name": "Season Heart",
     "group": "SeasonPass",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Season-of-Carnival-Heart-icon.png"
   },
   {
     "id": 3084,
@@ -200,8 +200,8 @@
     "guid": "C7uJNuyqfU",
     "type": "Mask",
     "name": "Carnival Athletic Dancer Mask",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Carnival-Athletic-Dancer-Mask-real.png",
-    "previewUrl": "",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Carnival-Athletic-Dancer-Mask-real.png",
     "_wiki": {
       "href": ""
     }
@@ -241,7 +241,7 @@
     "guid": "gY0PT3KyNh",
     "type": "Special",
     "name": "White dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Black-dye-container-icon.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png",
   },
   {
     "id": 3092,
@@ -284,7 +284,7 @@
     "type": "Special",
     "name": "Season Heart",
     "group": "SeasonPass",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Season-of-Carnival-Heart-icon.png"
   },
   {
     "id": 3097,
@@ -412,7 +412,7 @@
     "type": "Special",
     "name": "Season Heart",
     "group": "SeasonPass",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Season-of-Carnival-Heart-icon.png"
   },
   {
     "id": 3110,
@@ -539,7 +539,7 @@
     "type": "Special",
     "name": "Season Heart",
     "group": "SeasonPass",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cd/Season-of-Carnival-Heart-icon.png"
   },
   {
     "id": 3123,
@@ -550,5 +550,38 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#1"
     }
+  },  
+  {
+    "id": 3124,
+    "guid": "f8A7rOODB8",
+    "type": "Special",
+    "name": "Wandering Carnival Warp",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Icon_warp.png"    
+  },
+  {
+    "id": 3125,
+    "guid": "WUasrZnveA",
+    "type": "Quest",
+    "name": "Quest 2",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#2"
+    }
+  },
+  {
+    "id": 3126,
+    "guid": "9_k0CQ1YsG",
+    "type": "Prop",
+    "name": "Challenge Ball Dispenser Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Challenge-Ball-Dispenser-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png"
+  },
+  {
+    "id": 3127,
+    "guid": "2Vy0pNifOU",
+    "type": "Prop",
+    "name": "Challenge Target Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Challenge-Target-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png"
   }
 ]
