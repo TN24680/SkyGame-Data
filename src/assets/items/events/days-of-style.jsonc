@@ -15,7 +15,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Wide-Leg_Jeans"
     },
-    "order": 92
+    "order": 96
   },
   {
     "id": 1842,
@@ -27,7 +27,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Bunny_Slippers"
     },
-    "order": 157
+    "order": 161
   },
   {
     "id": 1843,
@@ -39,7 +39,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Heart_Sunglasses"
     },
-    "order": 128
+    "order": 132
   },
   {
     "id": 1844,
@@ -51,7 +51,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Flame_Sunglasses"
     },
-    "order": 127
+    "order": 131
   },
   {
     "id": 1845,
@@ -63,7 +63,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Star_Sunglasses"
     },
-    "order": 126
+    "order": 130
   },
   {
     "id": 1846,
@@ -75,7 +75,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Silk_Ballet_Slippers"
     },
-    "order": 156
+    "order": 160
   },
   {
     "id": 1847,
@@ -87,7 +87,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Top_Hat"
     },
-    "order": 391,
+    "order": 400,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Style_tophat.jpg",
       "primary": {}
@@ -107,7 +107,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Runway_Makeup_Mask"
     },
-    "order": 541
+    "order": 552
   },
   {
     "id": 1849,
@@ -134,7 +134,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Style_dress.jpg"
     },
-    "order": 93,
+    "order": 97,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dazzling_Dress"
     }
@@ -146,7 +146,7 @@
     "name": "Style Fascinator",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Style-Darkness-Fascinator-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/Style-Darkness-Fascinator.png",
-    "order": 392,
+    "order": 401,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Style_veil.jpg"
@@ -175,7 +175,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Style_suit.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Style_suit.jpg"
     },
-    "order": 94,
+    "order": 98,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dapper_Trio"
     }
@@ -187,7 +187,7 @@
     "name": "Style Dapper Monocle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Style-Dapper-Monocle-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7b/Style-Dapper-Monocle.png",
-    "order": 129,
+    "order": 133,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dapper_Trio"
     }
@@ -199,7 +199,7 @@
     "name": "Style Dapper Necktie",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Style-Dapper-Necktie-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Style-Dapper-Necktie.png",
-    "order": 597,
+    "order": 610,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dapper_Trio"
     }

@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Seasonal_Pendant"
     },
-    "order": 579
+    "order": 590
   },
   {
     "id": 2938,
@@ -27,7 +27,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Mask"
     },
-    "order": 525
+    "order": 534
   },
   {
     "id": 2939,
@@ -40,7 +40,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Hair"
     },
-    "order": 300
+    "order": 304
   },
   {
     "id": 2940,
@@ -57,7 +57,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Cape"
     },
-    "order": 1014
+    "order": 1028
   },
   {
     "id": 2941,
@@ -101,12 +101,13 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Hair"
     },
-    "order": 301
+    "order": 305
   },
   {
     "id": 2945,
     "guid": "JVyiutV_rJ",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Whispering",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -119,6 +120,7 @@
     "id": 2946,
     "guid": "tvP_BdKeGx",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Whispering",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -142,7 +144,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Cape"
     },
-    "order": 1016
+    "order": 1030
   },
   {
     "id": 2948,
@@ -155,7 +157,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Mask"
     },
-    "order": 528
+    "order": 537
   },
   {
     "id": 2949,
@@ -168,6 +170,7 @@
     "id": 2950,
     "guid": "hdBoIp8DSt",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Whispering",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -225,7 +228,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Mask"
     },
-    "order": 529
+    "order": 538
   },
   {
     "id": 2955,
@@ -245,6 +248,7 @@
     "id": 2957,
     "guid": "ls4f2BZMa1",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Secret Handshake",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -257,6 +261,7 @@
     "id": 2958,
     "guid": "aTjwu2WW5P",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Secret Handshake",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -288,7 +293,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Hair_Accessory"
     },
-    "order": 371
+    "order": 378
   },
   {
     "id": 2961,
@@ -304,12 +309,13 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Cape"
     },
-    "order": 1015
+    "order": 1029
   },
   {
     "id": 2962,
     "guid": "1FdKshQoK5",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Secret Handshake",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -330,7 +336,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Instrument"
     },
-    "order": 651
+    "order": 664
   },
   {
     "id": 2964,
@@ -376,7 +382,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion#Mask"
     },
-    "order": 527
+    "order": 536
   },
   {
     "id": 2969,
@@ -389,6 +395,7 @@
     "id": 2970,
     "guid": "qo1qe-9isU",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Revolving Dance",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
@@ -401,6 +408,7 @@
     "id": 2971,
     "guid": "yTVzbInwXw",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Revolving Dance",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
@@ -426,7 +434,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion#Head_Accessory"
     },
-    "order": 429
+    "order": 438
   },
   {
     "id": 2974,
@@ -439,6 +447,7 @@
     "id": 2975,
     "guid": "EFu-yq3gzB",
     "type": "Emote",
+    "subtype": "FriendEmote",
     "name": "Revolving Dance",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
@@ -540,7 +549,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Pioneer#Hair"
     },
-    "order": 302
+    "order": 306
   },
   {
     "id": 2985,
@@ -553,7 +562,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Pioneer#Mask"
     },
-    "order": 526
+    "order": 535
   },
   {
     "id": 2986,
