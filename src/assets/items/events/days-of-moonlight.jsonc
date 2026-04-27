@@ -36,7 +36,7 @@
     "name": "Moonlight Earrings",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e6/Moonlight-Earrings-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c9/Moonlight-Earrings.png",
-    "order": 445,
+    "order": 446,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Earrings"
     }
@@ -48,7 +48,7 @@
     "name": "Moonlight Lantern",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Moonlight-Lantern-Decoration-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Moonlight-Lantern-Decoration.png",
-    "order": 894,
+    "order": 895,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Lantern_Decoration"
     }
@@ -89,7 +89,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Tufted_Tail_Accessory"
     },
-    "order": 618
+    "order": 619
   },
   {
     "id": 2759,
@@ -101,7 +101,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Banner"
     },
-    "order": 740
+    "order": 741
   },
   {
     "id": 2760,
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Garland_Cape"
     },
-    "order": 1064
+    "order": 1065
   },
   {
     "id": 2761,
@@ -125,6 +125,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Basin"
     },
-    "order": 739
+    "order": 740
   }
 ]

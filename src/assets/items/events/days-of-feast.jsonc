@@ -25,7 +25,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Horns"
     },
-    "order": 447,
+    "order": 448,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Feast_antlers.jpg",
       "primary": {}
@@ -45,7 +45,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Snowflake_Cape"
     },
-    "order": 1074
+    "order": 1075
   },
   {
     "id": 1879,
@@ -61,7 +61,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Cape"
     },
-    "order": 1073
+    "order": 1074
   },
   {
     "id": 1880,
@@ -73,7 +73,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Days_of_Feast_Table"
     },
-    "order": 777
+    "order": 778
   },
   {
     "id": 1881,
@@ -85,7 +85,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2020#Feast_Necktie"
     },
-    "order": 611
+    "order": 612
   },
   {
     "id": 1882,
@@ -132,7 +132,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Pillow"
     },
-    "order": 778
+    "order": 779
   },
   {
     "id": 1888,
@@ -160,7 +160,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Scarf"
     },
-    "order": 612,
+    "order": 613,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Feast_scarf.jpg",
       "primary": {}
@@ -202,7 +202,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Feast_Snowglobe"
     },
-    "order": 780
+    "order": 781
   },
   {
     "id": 1894,
@@ -232,7 +232,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2021#Winter_Ancestor_Cape"
     },
-    "order": 1075
+    "order": 1076
   },
   {
     "id": 1896,
@@ -269,7 +269,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Snowkid_Prop"
     },
-    "order": 783
+    "order": 784
   },
   {
     "id": 1899,
@@ -281,7 +281,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Tournament_Skyball_Set"
     },
-    "order": 782
+    "order": 783
   },
   {
     "id": 1900,
@@ -299,7 +299,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Cozy_Hermit_Cape"
     },
-    "order": 1076
+    "order": 1077
   },
   {
     "id": 1976,
@@ -320,7 +320,7 @@
     "type": "Held",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Winter-Feast-Snowboard-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Winter-Feast-Snowboard-prop.png",
-    "order": 792,
+    "order": 793,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Winter_Feast_Snowboard"
     }
@@ -342,7 +342,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Course_Creation_Prop"
     },
-    "order": 794
+    "order": 795
   },
   {
     "id": 2411,
@@ -381,7 +381,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_peek.jpg"
     },
-    "order": 1077,
+    "order": 1078,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Winter_Quilted_Cape"
     }
@@ -424,7 +424,7 @@
     "name": "Wonderland Cafe Corridor",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Wonderland-Cafe-Corridor-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Wonderland-Cafe-Corridor.png",
-    "order": 899,
+    "order": 900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Cafe_Corridor"
     }
@@ -436,7 +436,7 @@
     "name": "Wonderland Teacup Bath",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Wonderland-Teacup-Bath-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Wonderland-Teacup-Bath-Prop.png",
-    "order": 898,
+    "order": 899,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Teacup_Bath"
     }
@@ -528,7 +528,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Shawl_Cape"
     },
-    "order": 1078
+    "order": 1079
   },
   {
     "id": 2912,
@@ -560,7 +560,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Winter_Scarf_Cape"
     },
-    "order": 1079
+    "order": 1080
   },
   {
     "id": 2914,
@@ -588,7 +588,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Horizontal_Ice_Block"
     },
-    "order": 851
+    "order": 852
   },
   {
     "id": 2916,
@@ -600,7 +600,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Vertical_Ice_Block"
     },
-    "order": 852
+    "order": 853
   },
   {
     "id": 2917,
@@ -612,7 +612,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Concave_Ice_Slide"
     },
-    "order": 854
+    "order": 855
   },
   {
     "id": 2918,
@@ -624,7 +624,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Convex_Ice_Slide"
     },
-    "order": 853
+    "order": 854
   },
   {
     "id": 2919,
@@ -636,7 +636,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Ice_Stool"
     },
-    "order": 849
+    "order": 850
   },
   {
     "id": 2920,
@@ -648,7 +648,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Small_Ice_Table"
     },
-    "order": 850
+    "order": 851
   },
   {
     "id": 2921,

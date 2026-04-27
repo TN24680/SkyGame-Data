@@ -24,7 +24,7 @@
     "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Blue-Bird-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Season-of-the-Blue-Bird-Pendant.png",
-    "order": 587,
+    "order": 588,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Seasonal_Pendant"
     }
@@ -54,7 +54,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_whitecape.jpg"
     },
-    "order": 1020,
+    "order": 1021,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Ultimate_Gifts"
     }
@@ -213,7 +213,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Prop"
     },
-    "order": 721
+    "order": 722
   },
   {
     "id": 2569,
@@ -239,7 +239,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_grandpacape.jpg"
     },
-    "order": 1019,
+    "order": 1020,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Divining_Wise_Grandparent#Cape"
     }
@@ -323,7 +323,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_mask.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Bluebird_mask.jpg"
     },
-    "order": 531,
+    "order": 532,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Costumed_Confetti_Cousin#Mask"
     }
@@ -473,7 +473,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_tousleheadphones.jpg"
     },
-    "order": 435,
+    "order": 436,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Royal_Hairtousle_Teen#Head_Accessory"
     }
@@ -510,7 +510,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_touslecape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Bluebird_touslecape.jpg"
     },
-    "order": 1017,
+    "order": 1018,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Royal_Hairtousle_Teen#Cape"
     }
@@ -569,7 +569,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_beetlecape.jpg"
     },
-    "order": 1018,
+    "order": 1019,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nostalgic_Sparkler_Parent#Cape"
     }
