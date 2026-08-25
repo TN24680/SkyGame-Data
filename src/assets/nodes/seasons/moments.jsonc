@@ -31,6 +31,21 @@
   { "guid": "3xk2dNCt0e", "item": "iMrPI958ew", "c": 3 },
   { "guid": "0Og_5OTHlw", "item": "RGIkrdzAHQ", "n": "WxLevHf2MQ" },
   { "guid": "WxLevHf2MQ", "item": "T_Y0iSIKrS", "c": 3 },
+  // After Season 34.5
+  { "guid": "HvsLl-lTYB", "item": "K_OhSP_gST", "nw": "tP_vjD5CkL", "n": "J75A1Q5U0p" },
+  { "guid": "tP_vjD5CkL", "item": "PXOxK5ZTiw", "c": null },
+  { "guid": "J75A1Q5U0p", "item": "bZLp8uDLBH", "nw": "c28APeln_k", "n": "wKt_4bfhAD" },
+  { "guid": "c28APeln_k", "item": "IncDUgOVKU", "c": 3 },
+  { "guid": "wKt_4bfhAD", "item": "tPSfwv25tD", "nw": "44eiU-TEN-", "n": "V4xNp3rI5C" },
+  { "guid": "44eiU-TEN-", "item": "XQXq0JUaSV", "c": 3 },
+  { "guid": "V4xNp3rI5C", "item": "BUkqSHBWBP", "n": "PuJ-WZR-4S" },
+  { "guid": "PuJ-WZR-4S", "item": "Bt81wczcyz", "nw": "wHTkYptRnh", "n": "rlVqb2h28q" },
+  { "guid": "wHTkYptRnh", "item": "BIe6DgYn08", "c": 3 },
+  { "guid": "rlVqb2h28q", "item": "QYqOsJH08k", "nw": "TUlTOCBKn7", "n": "5TWj3XbL8X" },
+  { "guid": "TUlTOCBKn7", "item": "iMrPI958ew", "c": 3 },
+  { "guid": "5TWj3XbL8X", "item": "RGIkrdzAHQ", "n": "HWpLA2Y2BX" },
+  { "guid": "HWpLA2Y2BX", "item": "T_Y0iSIKrS", "c": 3, "n": "9LSzgBxVpJ" },
+  { "guid": "9LSzgBxVpJ", "item": "kXLOaiW5sq", "c": 25 },
   // #endregion
   // #region Moments
   // #region Reassuring Ranger
