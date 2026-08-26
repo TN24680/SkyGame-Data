@@ -206,6 +206,17 @@
   { "guid": "BT25AH1a56", "item": "Q4z_OukNlE", "h": 6 },
   { "guid": "LPUytQ9cJ9", "item": "upDiBXJC_V", "c": 5, "n": "c39Zk-UjlN" },
   { "guid": "c39Zk-UjlN", "item": "RX-66s3KFD", "c": 54 },
+  // TS 173
+  { "guid": "B-OkFIgzxB", "item": "2EjYbZlJwr", "nw": "0kWVVIKQa4", "n": "sd86IEKynq" },
+  { "guid": "0kWVVIKQa4", "item": "Q5LhJRWFiF", "h": 4 },
+  { "guid": "sd86IEKynq", "item": "g5MvmNr1oa", "c": 5, "nw": "UQIM0cHdyA", "n": "p_pe0vZJal", "ne": "DzJQ_oGiJ4" },
+  { "guid": "UQIM0cHdyA", "item": "eL5WjOsMrx", "c": 40 },
+  { "guid": "DzJQ_oGiJ4", "item": "gMt6VYu2uG", "c": 3 },
+  { "guid": "p_pe0vZJal", "item": "6AIXGyi9jl", "ac": 2, "n": "GZBqge7FOR" },
+  { "guid": "GZBqge7FOR", "item": "QVo-MuF4gw", "h": 3, "nw": "EnfqiDxVgL", "n": "D6NFnZpn1A" },
+  { "guid": "EnfqiDxVgL", "item": "Q4z_OukNlE", "h": 6 },
+  { "guid": "D6NFnZpn1A", "item": "upDiBXJC_V", "c": 5, "n": "vJGWfkagmm" },
+  { "guid": "vJGWfkagmm", "item": "RX-66s3KFD", "c": 54 },
   // #endregion
   // Saluting Protector
   { "guid": "qr6pd7epIs", "item": "zRlUm_oL2p", "nw": "ogY4gbewAk", "n": "4rHePEMawQ" },
