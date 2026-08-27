@@ -1,6 +1,10 @@
-{
+[
+ {
     "guid": "rQJpm8FVJJ",
     "name": "Feathery Lash Mask",
     "price": 1.99,
-    "items": ["7a1iYLeV94"]
+    "items": [
+      "7a1iYLeV94"
+    ]
   }
+]
