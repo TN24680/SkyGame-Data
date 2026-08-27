@@ -1,0 +1,71 @@
+[
+  {
+    "id": 3277,
+    "guid": "7a1iYLeV94",
+    "name": "Feathery Lash Mask",
+    "type": "Mask",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Feathery-Lash-Mask-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Feathery-Lash-Mask-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2026#Feathery_Lash_Mask"
+    }
+  },
+  {
+    "id": 3278,
+    "guid": "0ymZWXcz6Z",
+    "name": "Yellow Tent Wall",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2e/Spring-Camping-Shared-Space-Prop-4-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e6/Spring-Camping-Shared-Space-Prop-4.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Wall"
+    }
+  },
+  {
+    "id": 3279,
+    "guid": "PR2IFFsW_m",
+    "name": "Yellow Tent Top",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Spring-Camping-Shared-Space-Prop-2-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Spring-Camping-Shared-Space-Prop-2.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Top"
+    }
+  },
+  {
+    "id": 3280,
+    "guid": "8KuMwTpL5V",
+    "name": "Yellow Tent Window",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Spring-Camping-Shared-Space-Prop-1-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Spring-Camping-Shared-Space-Prop-1.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Window"
+    }
+  },
+  {
+    "id": 3281,
+    "guid": "jIwqjwvKnG",
+    "name": "Yellow Tent Door",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Spring-Camping-Shared-Space-Prop-3-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Spring-Camping-Shared-Space-Prop-3.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Door"
+    }
+  },
+  { 
+    "id": 3282,
+    "guid": "UDK1UEXKdq", 
+    "type": "Special", 
+    "name": "Placeholder", 
+    "icon": "/assets/icons/question.webp" 
+  },
+  { 
+    "id": 3283,
+    "guid": "zBMQsKfMDz", 
+    "type": "Spell", 
+    "name": "Placeholder", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png" 
+  }
+]

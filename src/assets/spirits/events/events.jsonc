@@ -161,6 +161,16 @@
     "name": "Days of Sunlight Guide",  //2024, 2025, 2026
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Days-of-Sunlight-Guide-2024.png"
   },
+  // Summer Camping
+  {
+    "guid": "Eyq6NkN9-u",
+    "type": "Event",
+    "name": "Summer Camper",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Summer-Camping-Guide.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping"
+    }
+  }
   // Days of Moonlight
   {
     "guid": "tXkUX6GU6W",
