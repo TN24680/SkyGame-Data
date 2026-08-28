@@ -1544,24 +1544,28 @@
     "guid": "nDiOVsRGWO",
     "node": "EEz74j7uA3"
   },
+  { "guid": "WZJygDqCnE", "node": "LYdpa5WUCD" }, // SV 14
   // #endregion
   // #region Hunter
   {
     "guid": "rsxn04As9U",
     "node": "kU0nAenGkj"
   },
+  { "guid": "xU1CjA3NH4", "node": "8tmg8UjwKI" }, // SV 14
   // #endregion
   // #region Feudal Lord
   {
     "guid": "0wgQ9rDShR",
     "node": "c1ukj9PFVD"
   },
+  { "guid": "OzhlUcnFtW", "node": "QUDxvp4oyS" }, // SV 14
   // #endregion
   // #region Princess
   {
     "guid": "uLAuAvptPA",
     "node": "QLHntqZQ6m"
   },
+  { "guid": "vHXlFW0TTQ", "node": "xxtLBksvEp" }, // SV 14
   // #endregion
   // #endregion
   // #region Nesting
