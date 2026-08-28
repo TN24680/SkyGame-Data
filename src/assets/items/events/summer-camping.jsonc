@@ -8,7 +8,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Feathery-Lash-Mask-real.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2026#Feathery_Lash_Mask"
-    }
+    },
+    "order": 10975
   },
   {
     "id": 3278,
@@ -19,7 +20,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e6/Spring-Camping-Shared-Space-Prop-4.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Wall"
-    }
+    },
+    "order": 5320
   },
   {
     "id": 3279,
@@ -30,7 +32,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Spring-Camping-Shared-Space-Prop-2.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Top"
-    }
+    },
+    "order": 5380
   },
   {
     "id": 3280,
@@ -41,7 +44,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Spring-Camping-Shared-Space-Prop-1.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Window"
-    }
+    },
+    "order": 5360
   },
   {
     "id": 3281,
@@ -52,20 +56,21 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Spring-Camping-Shared-Space-Prop-3.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping/2024#Yellow_Tent_Door"
-    }
+    },
+    "order": 5340
   },
-  { 
+  {
     "id": 3282,
-    "guid": "UDK1UEXKdq", 
-    "type": "Special", 
-    "name": "Placeholder", 
-    "icon": "https://sky-planner.com/assets/icons/question.webp" 
+    "guid": "UDK1UEXKdq",
+    "type": "Special",
+    "name": "Cutscene",
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
-  { 
+  {
     "id": 3283,
-    "guid": "zBMQsKfMDz", 
-    "type": "Spell", 
-    "name": "Placeholder", 
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png" 
+    "guid": "zBMQsKfMDz",
+    "type": "Spell",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   }
 ]
