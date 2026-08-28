@@ -3,7 +3,8 @@
     "guid": "go4sbU06Ua",
     "name": "Summer Camping",
     "shortName": "Summer Camping",
-    "imageUrl": "",
+    "imageUrl": "https://image.thatskygame.com/cdn-cgi/image/w=1280,h=1200,f=webp/https://a.storyblok.com/f/108104/1920x1080/0166526675/4_tmisimage_sls_2607.png",
+    "imagePosition": "bottom",
     "instances": ["eJ9AAxq7X1"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Summer_Camping"

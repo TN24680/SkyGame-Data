@@ -1,10 +1,13 @@
 [
   {
     "guid": "eJ9AAxq7X1",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "endDate": "2026-09-10",
     "spirits": ["EmiGMSIcoa"],
     "shops": ["jm77LBOk18"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5
+    },
     "_calendar": {
       "href": "https://skydreamers.notion.site/Summer-Camping-Event-3b28261c87dd804f913df58e031ca10d"
     }

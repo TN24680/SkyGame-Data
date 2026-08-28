@@ -59,7 +59,7 @@
     "guid": "UDK1UEXKdq", 
     "type": "Special", 
     "name": "Placeholder", 
-    "icon": "/assets/icons/question.webp" 
+    "icon": "https://sky-planner.com/assets/icons/question.webp" 
   },
   { 
     "id": 3283,
